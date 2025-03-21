@@ -1,0 +1,22 @@
+{
+  "card_urls": [
+    "https://onepiece.limitlesstcg.com/cards/ST01-007",
+    "https://onepiece.limitlesstcg.com/cards/ST02-007",
+    "https://onepiece.limitlesstcg.com/cards/ST03-007",
+    "https://onepiece.limitlesstcg.com/cards/ST04-010",
+    "https://onepiece.limitlesstcg.com/cards/ST01-007",
+    "https://onepiece.limitlesstcg.com/cards/ST02-007",
+    "https://onepiece.limitlesstcg.com/cards/ST03-007",
+    "https://onepiece.limitlesstcg.com/cards/ST04-010"
+  ],
+  "image_urls": [
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST01/ST01-007_p1_EN.webp",
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST02/ST02-007_p1_EN.webp",
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST03/ST03-007_p1_EN.webp",
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST04/ST04-010_p1_EN.webp",
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST01/ST01-007_p2_EN.webp",
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST02/ST02-007_p2_EN.webp",
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST03/ST03-007_p2_EN.webp",
+    "https://limitlesstcg.nyc3.cdn.digitaloceanspaces.com/one-piece/ST04/ST04-010_p2_EN.webp"
+  ]
+}
