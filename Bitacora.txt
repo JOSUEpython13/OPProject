@@ -1,0 +1,47 @@
+Yamato
+P-008
+Character
+•
+Green
+• 3 Cost
+5000 Power
+            •
+Strike
+[Activate: Main] You may rest this Character: Rest 1 of your opponent's Characters with a cost of 2 or less.
+Land of Wano
+
+I need you to give them format like this:
+
+{card_name}Yamato
+{card_code}P-008
+{category}Character
+{color}Green
+{cost}3
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[Activate: Main] You may rest this Character: Rest 1 of your opponent's Characters with a cost of 2 or less.
+{type}Land of Wano
+
+
+- All cards without exception need to have these 10 sections, some could be blank or 0:
+
+{card_name} - All cards need this section.
+{card_code} - All cards need this section.
+{category} - There are 4 types of category: "Character", "Leader", "Event" and "Stage". All cards must have 1 "category"
+{color} - All cards must have at least 1 "color". There are 6 "color": "Black", "Yellow", "Red", "Blue", "Green" and "Purple" - Only some cards with "category" Leader could have two colors at the same time
+{cost} - All cards must have "cost". "cost" 0 is valid
+{power} - All cards with "category" Character and Leader have "power". "power" 0 is valid. Events and Stages dont have "power", so they have this section blank
+{atributte} - Only cards with "category" Character and Leader can have atributte -Slash, Strike, Ranged, Special, Wisdom - Multiple Attributes: Some cards can have multiple attributes, such as Slash and Strike, or Ranged and Special. Events and Stage have this section blank
+{counter} - Only cards with "category" Character have "counter". 0 "counter" is valid. 
+{effect} - The "effect" is between the "counter" and the "type". Some cards "category" Character could not have "effect".
+{type} - All cards must have at least 1 "type". Some cards could have multiple "type".
+
+<div class="card-text-section">
+                    [Counter] K.O. up to 1 of your opponent's Characters with 6000 base power or less.
+        
+                    <br><br>
+            [Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.
+        
+    </div>
+
