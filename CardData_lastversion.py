@@ -3,10 +3,10 @@ import json
 import requests
 from bs4 import BeautifulSoup
 
-base_path = r"C:\Users\INFESTED\Documents\GitHub\OPProject\Cards"
+base_path = r"C:\Users\jsolanor\Documents\GitHub\OPProject\Cards"
 headers = {"User-Agent": "Mozilla/5.0"}
 
-# --- Card Parsing Logic ---
+#Funcion para leer cartas
 def parse_card_text(card_lines, allow_counter=True):
     result = {
         "card_name": "",
@@ -91,7 +91,7 @@ def parse_card_text(card_lines, allow_counter=True):
     return "\n".join([f"{{{key}}}{value}" for key, value in result.items()])
 
 
-# --- Main Script ---
+#MAIN - Core del Script
 for file_name in os.listdir(base_path):
     if file_name.endswith(".json"):
         json_path = os.path.join(base_path, file_name)
@@ -114,7 +114,7 @@ for file_name in os.listdir(base_path):
                     soup = BeautifulSoup(response.text, "html.parser")
                     card_text_div = soup.find("div", class_="card-text")
 
-                    # Check counter eligibility from power/attribute section
+                    # Verificar el counter antes de la seccion de "power"
                     allow_counter = True
                     meta_section = soup.find("p", class_="card-text-section")
                     if meta_section and "Counter" not in meta_section.get_text():
@@ -124,7 +124,7 @@ for file_name in os.listdir(base_path):
                         raw_text = card_text_div.get_text(separator="\n", strip=True)
                         lines = raw_text.splitlines()
 
-                        # Remove "Illustrated by" and line after it
+                        # Remover "Illustrated by" y la linea siguiente
                         filtered_lines = []
                         skip_next = False
                         for line in lines:
