@@ -1,0 +1,10 @@
+{card_name}Marshall.D.Teach
+{card_code}OP03-012
+{category}Character
+{color}Red
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[When Attacking] You may trash 1 of your red Characters with 4000 power or more: Draw 1 card. Then, this Character gains +1000 power during this battle.
+{type}Whitebeard Pirates

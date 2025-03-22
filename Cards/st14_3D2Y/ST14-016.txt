@@ -1,0 +1,10 @@
+{card_name}I Have My Crew!!
+{card_code}ST14-016
+{category}Event
+{color}Black
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] Draw 1 card. Then, up to 1 of your Characters gains +3 cost until the end of your opponent's next turn. [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.
+{type}Straw Hat Crew

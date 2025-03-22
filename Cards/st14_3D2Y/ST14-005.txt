@@ -1,0 +1,10 @@
+{card_name}Tony Tony.Chopper
+{card_code}ST14-005
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Animal/Straw Hat Crew

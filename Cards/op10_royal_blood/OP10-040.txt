@@ -1,0 +1,10 @@
+{card_name}The Weak Do Not Have the Right to Choose How They Die
+{card_code}OP10-040
+{category}Event
+{color}Green
+{cost}5
+{power}
+{atributte}
+{counter}
+{effect}[Main]/[Counter] K.O. up to 1 of your opponent's rested Characters with a cost of 7 or less.
+{type}Punk Hazard/The Seven Warlords of the Sea/Heart Pirates

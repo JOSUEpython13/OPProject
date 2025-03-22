@@ -1,0 +1,10 @@
+{card_name}Laboon
+{card_code}ST08-012
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal

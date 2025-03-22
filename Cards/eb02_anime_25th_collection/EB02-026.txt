@@ -1,0 +1,10 @@
+{card_name}Nefeltari Vivi
+{card_code}EB02-026
+{category}Character
+{color}Blue
+{cost}3
+{power}2000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader is multicolored and you have 5 or less cards in your hand, draw 2 cards.
+{type}Alabasta

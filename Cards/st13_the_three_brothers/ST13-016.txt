@@ -1,0 +1,10 @@
+{card_name}Yamato
+{card_code}ST13-016
+{category}Character
+{color}Yellow
+{cost}5
+{power}4000
+{atributte}Strike
+{counter}• 2000 Counter
+{effect}[Rush] (This card can attack on the turn in which it is played.) [On Play] Look at all your Life cards; place 1 at the top of your deck and place the rest back in your Life area in any order.
+{type}Land of Wano

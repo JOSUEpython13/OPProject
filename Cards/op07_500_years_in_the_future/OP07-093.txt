@@ -1,0 +1,10 @@
+{card_name}Rob Lucci
+{card_code}OP07-093
+{category}Character
+{color}Black
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] You may place 3 cards from your trash at the bottom of your deck in any order: Your opponent trashes 1 card from their hand. Then, you may place up to 1 card from your opponent's trash at the bottom of their deck.
+{type}CP0

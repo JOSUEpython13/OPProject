@@ -1,0 +1,10 @@
+{card_name}Zeo
+{card_code}OP06-028
+{category}Character
+{color}Green
+{cost}2
+{power}3000
+{atributte}Wisdom
+{counter}• 2000 Counter
+{effect}[DON!! x1] [When Attacking] If your Leader has the {New Fish-Man Pirates} type, set up to 1 of your DON!! cards as active and this Character gains +1000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.
+{type}Fish-Man/New Fish-Man Pirates

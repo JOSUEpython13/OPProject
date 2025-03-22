@@ -1,0 +1,10 @@
+{card_name}Rob Lucci
+{card_code}OP03-076
+{category}Leader
+{color}Black
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[Your Turn] [Once Per Turn] You may trash 2 cards from your hand: When your opponent's Character is K.O.'d, set this Leader as active.
+{type}CP9

@@ -1,0 +1,10 @@
+{card_name}Boa Hancock
+{card_code}ST03-013
+{category}Character
+{color}Blue
+{cost}3
+{power}1000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] Play this card.
+{type}The Seven Warlords of the Sea/Kuja Pirates

@@ -1,0 +1,10 @@
+{card_name}Makino
+{card_code}ST13-012
+{category}Character
+{color}Yellow
+{cost}1
+{power}0
+{atributte}Wisdom
+{counter}• 2000 Counter
+{effect}[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Look at all of your Life cards and place them back in your Life area in any order.
+{type}Windmill Village

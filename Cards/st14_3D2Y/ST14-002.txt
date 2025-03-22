@@ -1,0 +1,10 @@
+{card_name}Usopp
+{card_code}ST14-002
+{category}Character
+{color}Black
+{cost}3
+{power}4000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] If you have a Character with a cost of 8 or more, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.
+{type}Straw Hat Crew

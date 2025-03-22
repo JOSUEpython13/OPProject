@@ -1,0 +1,10 @@
+{card_name}Charlotte Opera
+{card_code}OP08-102
+{category}Character
+{color}Yellow
+{cost}6
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] You may trash 1 card from your hand: K.O. up to 1 of your opponent's Characters with a cost equal to or less than your number of Life cards.
+{type}Big Mom Pirates

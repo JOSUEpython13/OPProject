@@ -1,0 +1,10 @@
+{card_name}Rockstar
+{card_code}OP09-016
+{category}Character
+{color}Red
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Red-Haired Pirates

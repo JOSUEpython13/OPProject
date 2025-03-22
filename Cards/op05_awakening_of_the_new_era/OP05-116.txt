@@ -1,0 +1,10 @@
+{card_name}Hino Bird Zap
+{card_code}OP05-116
+{category}Event
+{color}Yellow
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards. [Trigger] Activate this card's [Main] effect.
+{type}Sky Island

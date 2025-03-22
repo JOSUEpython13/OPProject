@@ -1,0 +1,10 @@
+{card_name}Sogeking
+{card_code}OP03-122
+{category}Character
+{color}Blue
+{cost}7
+{power}6000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[On Play] Return up to 1 Character with a cost of 6 or less to the owner's hand. Then, draw 2 cards and trash 2 cards from your hand.
+{type}Sniper Island

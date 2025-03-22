@@ -1,0 +1,10 @@
+{card_name}Green Star Rafflesia
+{card_code}OP01-028
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Give up to 1 of your opponent's Leader or Character cards −2000 power during this turn. [Trigger] Activate this card's [Counter] effect.
+{type}Straw Hat Crew

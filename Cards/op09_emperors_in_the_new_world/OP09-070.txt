@@ -1,0 +1,10 @@
+{card_name}Nami
+{card_code}OP09-070
+{category}Character
+{color}Purple
+{cost}3
+{power}2000
+{atributte}Special
+{counter}• 2000 Counter
+{effect}[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.
+{type}Straw Hat Crew

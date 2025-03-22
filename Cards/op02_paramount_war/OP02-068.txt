@@ -1,0 +1,10 @@
+{card_name}Gum-Gum Rain
+{card_code}OP02-068
+{category}Event
+{color}Blue
+{cost}0
+{power}
+{atributte}
+{counter}
+{effect}[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.
+{type}Impel Down/Straw Hat Crew

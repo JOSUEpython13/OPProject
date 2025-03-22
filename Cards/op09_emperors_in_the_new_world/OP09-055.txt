@@ -1,0 +1,10 @@
+{card_name}Mr.1(Daz.Bonez)
+{card_code}OP09-055
+{category}Character
+{color}Blue
+{cost}5
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Cross Guild/Former Baroque Works

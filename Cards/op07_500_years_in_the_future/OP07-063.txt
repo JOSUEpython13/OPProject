@@ -1,0 +1,10 @@
+{card_name}Capote
+{card_code}OP07-063
+{category}Character
+{color}Purple
+{cost}3
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : If your Leader has the {Foxy Pirates} type, up to 1 of your opponent's Characters with a cost of 6 or less cannot attack until the end of your opponent's next turn.
+{type}Fish-Man/Foxy Pirates

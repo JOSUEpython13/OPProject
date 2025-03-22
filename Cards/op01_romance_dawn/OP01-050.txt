@@ -1,0 +1,10 @@
+{card_name}Penguin
+{card_code}OP01-050
+{category}Character
+{color}Green
+{cost}3
+{power}2000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If you don't have [Shachi], play up to 1 [Shachi] from your hand.
+{type}Heart Pirates

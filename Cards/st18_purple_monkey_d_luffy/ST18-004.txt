@@ -1,0 +1,10 @@
+{card_name}Zoro-Juurou
+{card_code}ST18-004
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[On Play] Look at 5 cards from the top of your deck; reveal up to 1 purple {Straw Hat Crew} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Straw Hat Crew

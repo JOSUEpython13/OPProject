@@ -1,0 +1,10 @@
+{card_name}Shiki
+{card_code}ST05-008
+{category}Character
+{color}Purple
+{cost}6
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Golden Lion Pirates

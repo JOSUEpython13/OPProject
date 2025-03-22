@@ -1,0 +1,10 @@
+{card_name}Mr.5(Gem)
+{card_code}OP04-072
+{category}Character
+{color}Purple
+{cost}7
+{power}8000
+{atributte}Special
+{counter}
+{effect}[On Your Opponent's Attack] [Once Per Turn] DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may rest this Character: K.O. up to 1 of your opponent's Characters with a cost of 4 or less.
+{type}Baroque Works

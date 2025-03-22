@@ -1,0 +1,10 @@
+{card_name}Kouzuki Oden
+{card_code}OP09-047
+{category}Character
+{color}Blue
+{cost}9
+{power}10000
+{atributte}Slash
+{counter}
+{effect}[Double Attack] (This card deals 2 damage.) [On K.O.] Draw 2 cards and trash 1 card from your hand.
+{type}Land of Wano/Whitebeard Pirates

@@ -1,0 +1,10 @@
+{card_name}Koby
+{card_code}P-014
+{category}Character
+{color}Red
+{cost}3
+{power}3000
+{atributte}Strike
+{counter}
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] Play this card.
+{type}FILM/Navy

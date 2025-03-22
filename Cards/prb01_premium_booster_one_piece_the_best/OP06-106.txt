@@ -1,0 +1,10 @@
+{card_name}Kouzuki Hiyori
+{card_code}OP06-106
+{category}Character
+{color}Yellow
+{cost}2
+{power}0
+{atributte}Wisdom
+{counter}• 2000 Counter
+{effect}[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Add up to 1 card from your hand to the top of your Life cards.
+{type}Land of Wano/Kouzuki Clan

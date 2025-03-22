@@ -1,0 +1,10 @@
+{card_name}Ancient Weapon Poseidon
+{card_code}OP11-037
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] Look at 4 cards from the top of your deck; reveal up to 1 {Neptunian} or {Fish-Man Island} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.
+{type}Fish-Man Island

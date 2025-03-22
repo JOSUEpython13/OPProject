@@ -1,0 +1,10 @@
+{card_name}Kalifa
+{card_code}OP07-081
+{category}Character
+{color}Black
+{cost}4
+{power}5000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost.
+{type}CP0

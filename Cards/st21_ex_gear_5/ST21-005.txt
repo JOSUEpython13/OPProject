@@ -1,0 +1,10 @@
+{card_name}Jinbe
+{card_code}ST21-005
+{category}Character
+{color}Red
+{cost}2
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Fish-Man/Straw Hat Crew

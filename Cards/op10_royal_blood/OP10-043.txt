@@ -1,0 +1,10 @@
+{card_name}Moocy
+{card_code}OP10-043
+{category}Character
+{color}Blue
+{cost}2
+{power}2000
+{atributte}Strike
+{counter}• 2000 Counter
+{effect}[On Play] You may rest 1 of your {Dressrosa} type Leader or Stage cards: Up to 1 of your [Monkey.D.Luffy] Characters gains [Banish] during this turn.
+{type}Animal/Dressrosa

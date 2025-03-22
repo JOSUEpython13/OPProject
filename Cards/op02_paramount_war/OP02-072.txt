@@ -1,0 +1,10 @@
+{card_name}Zephyr
+{card_code}OP02-072
+{category}Leader
+{color}Black / Purple
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[When Attacking] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : K.O. up to 1 of your opponent's Characters with a cost of 3 or less. Then, this Leader gains +1000 power during this turn.
+{type}FILM/Neo Navy

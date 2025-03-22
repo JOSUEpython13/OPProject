@@ -1,0 +1,10 @@
+{card_name}Patty
+{card_code}OP03-049
+{category}Character
+{color}Blue
+{cost}3
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[On Play] If you have 20 or less cards in your deck, return up to 1 Character with a cost of 3 or less to the owner's hand.
+{type}East Blue

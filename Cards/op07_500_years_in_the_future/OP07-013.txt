@@ -1,0 +1,10 @@
+{card_name}Masked Deuce
+{card_code}OP07-013
+{category}Character
+{color}Red
+{cost}1
+{power}2000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader is [Portgas.D.Ace], look at 5 cards from the top of your deck; reveal up to 1 [Portgas.D.Ace] or red Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Spade Pirates

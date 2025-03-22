@@ -1,0 +1,10 @@
+{card_name}Gear Two
+{card_code}OP11-080
+{category}Event
+{color}Purple
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may rest 2 of your DON!! cards: If your Leader's colors include blue, add up to 1 DON!! card from your DON!! deck and rest it. [Counter] Up to 1 of your Leader gains +3000 power during this battle.
+{type}Straw Hat Crew

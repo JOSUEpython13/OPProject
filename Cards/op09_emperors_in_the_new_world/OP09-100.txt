@@ -1,0 +1,10 @@
+{card_name}Karasu
+{card_code}OP09-100
+{category}Character
+{color}Yellow
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] If your Leader has the {Revolutionary Army} type and you and your opponent have a total of 5 or less Life cards, play this card.
+{type}Revolutionary Army

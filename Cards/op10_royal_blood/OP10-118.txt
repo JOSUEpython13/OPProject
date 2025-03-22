@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP10-118
+{category}Character
+{color}Black
+{cost}6
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[When Attacking] You may place 3 cards from your trash at the bottom of your deck in any order: If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.
+{type}Dressrosa/Supernovas/Straw Hat Crew

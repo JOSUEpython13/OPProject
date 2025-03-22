@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}OP01-001
+{category}Leader
+{color}Red
+{cost}
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[DON!! x1] [Your Turn] All of your Characters gain +1000 power.
+{type}Supernovas/Straw Hat Crew

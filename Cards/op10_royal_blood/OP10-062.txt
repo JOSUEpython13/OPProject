@@ -1,0 +1,10 @@
+{card_name}Violet
+{card_code}OP10-062
+{category}Character
+{color}Purple
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Blocker] [On K.O.] DON!! −1: If your Leader has the {Donquixote Pirates} type, add up to 1 purple Event from your trash to your hand.
+{type}Donquixote Pirates

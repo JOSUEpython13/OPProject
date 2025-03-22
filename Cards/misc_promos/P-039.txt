@@ -1,0 +1,10 @@
+{card_name}Bellamy
+{card_code}P-039
+{category}Character
+{color}Yellow
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [DON!! x2] If you have 0 Life cards, this Character gains +2000 power.
+{type}Bellamy Pirates

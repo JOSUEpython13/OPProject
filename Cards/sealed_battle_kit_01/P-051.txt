@@ -1,0 +1,10 @@
+{card_name}Shanks
+{card_code}P-051
+{category}Character
+{color}Blue
+{cost}7
+{power}9000
+{atributte}Slash
+{counter}
+{effect}[When Attacking] You may trash any number of cards from your hand. This Character gains +1000 power during this battle for every card trashed.
+{type}Red-Haired Pirates

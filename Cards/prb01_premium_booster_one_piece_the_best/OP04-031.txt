@@ -1,0 +1,10 @@
+{card_name}Donquixote Doflamingo
+{card_code}OP04-031
+{category}Character
+{color}Green
+{cost}10
+{power}10000
+{atributte}Special
+{counter}
+{effect}[On Play] Up to a total of 3 of your opponent's rested Leader and Character cards will not become active in your opponent's next Refresh Phase.
+{type}The Seven Warlords of the Sea/Donquixote Pirates

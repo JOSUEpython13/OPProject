@@ -1,0 +1,10 @@
+{card_name}Boodle
+{card_code}OP03-050
+{category}Character
+{color}Blue
+{cost}2
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On K.O.] You may trash 1 card from the top of your deck.
+{type}East Blue

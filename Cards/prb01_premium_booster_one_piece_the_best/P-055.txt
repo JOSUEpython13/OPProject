@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}P-055
+{category}Character
+{color}Blue
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] You may trash 2 cards from your hand: Your opponent places 1 of their Characters at the bottom of the owner's deck.
+{type}Straw Hat Crew

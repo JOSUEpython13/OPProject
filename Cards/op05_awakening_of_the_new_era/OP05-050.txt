@@ -1,0 +1,10 @@
+{card_name}Hina
+{card_code}OP05-050
+{category}Character
+{color}Blue
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Draw 1 card if you have 5 or less cards in your hand.
+{type}Navy

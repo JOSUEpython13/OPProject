@@ -1,0 +1,10 @@
+{card_name}Raki
+{card_code}OP06-113
+{category}Character
+{color}Yellow
+{cost}1
+{power}1000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}
+{type}Sky Island/Shandian Warrior

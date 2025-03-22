@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}ST14-012
+{category}Character
+{color}Black
+{cost}8
+{power}10000
+{atributte}Strike
+{counter}
+{effect}
+{type}Straw Hat Crew

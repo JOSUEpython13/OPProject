@@ -1,0 +1,10 @@
+{card_name}Coribou
+{card_code}OP11-086
+{category}Character
+{color}Black
+{cost}3
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] Trash 1 card from your hand. [Activate: Main] You may trash this Character: Play up to 1 [Caribou] with a cost of 4 or less from your trash.
+{type}Caribou Pirates

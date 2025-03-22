@@ -1,0 +1,10 @@
+{card_name}Brannew
+{card_code}OP03-089
+{category}Character
+{color}Black
+{cost}2
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Navy} type card other than [Brannew] and add it to your hand. Then, trash the rest.
+{type}Navy

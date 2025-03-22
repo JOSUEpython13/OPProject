@@ -1,0 +1,10 @@
+{card_name}Pickles
+{card_code}OP07-069
+{category}Character
+{color}Purple
+{cost}3
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Foxy Pirates

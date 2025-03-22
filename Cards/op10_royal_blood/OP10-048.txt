@@ -1,0 +1,10 @@
+{card_name}Sai
+{card_code}OP10-048
+{category}Character
+{color}Blue
+{cost}3
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[On Play] You may rest 1 of your {Dressrosa} type Leader or Stage cards: Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand.
+{type}Dressrosa/Happosui Army

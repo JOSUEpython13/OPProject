@@ -1,0 +1,10 @@
+{card_name}Foxy
+{card_code}OP07-059
+{category}Leader
+{color}Purple
+{cost}
+{power}5000
+{atributte}Special
+{counter}
+{effect}[When Attacking] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : If you have 3 or more {Foxy Pirates} type Characters, select your opponent's rested Leader and up to 1 Character card. The selected cards will not become active in your opponent's next Refresh Phase.
+{type}Foxy Pirates

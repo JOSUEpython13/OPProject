@@ -1,0 +1,10 @@
+{card_name}Eustass"Captain"Kid
+{card_code}OP09-075
+{category}Character
+{color}Purple
+{cost}3
+{power}5000
+{atributte}Special
+{counter}
+{effect}[On Play] You may add 1 card from the top of your Life cards to your hand: If your Leader has the {Kid Pirates} type, add up to 1 DON!! card from your DON!! deck and set it as active.
+{type}Kid Pirates

@@ -1,0 +1,10 @@
+{card_name}Nami
+{card_code}OP04-011
+{category}Character
+{color}Red
+{cost}2
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[When Attacking] Reveal 1 card from the top of your deck. If the revealed card is a Character card with 6000 power or more, this Character gains +3000 power during this turn. Then, place the revealed card at the bottom of your deck.
+{type}Alabasta/Straw Hat Crew

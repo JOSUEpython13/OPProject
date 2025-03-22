@@ -1,0 +1,10 @@
+{card_name}We Would Never Sell a Comrade to an Enemy!!!
+{card_code}OP08-038
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may rest 2 of your Characters: None of your Characters can be K.O.'d by your opponent's effects until the end of your opponent's next turn. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.
+{type}Minks/The Akazaya Nine

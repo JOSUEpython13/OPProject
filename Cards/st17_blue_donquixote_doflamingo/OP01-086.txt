@@ -1,0 +1,10 @@
+{card_name}Overheat
+{card_code}OP01-086
+{category}Event
+{color}Blue
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, return up to 1 active Character with a cost of 3 or less to the owner's hand. [Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.
+{type}The Seven Warlords of the Sea/Donquixote Pirates

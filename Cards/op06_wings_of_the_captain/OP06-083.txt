@@ -1,0 +1,10 @@
+{card_name}Oars
+{card_code}OP06-083
+{category}Character
+{color}Black
+{cost}4
+{power}7000
+{atributte}Strike
+{counter}
+{effect}[Activate: Main] You may K.O. 1 of your {Thriller Bark Pirates} type Characters: This Character's effect is negated during this turn.
+{type}Giant/Thriller Bark Pirates

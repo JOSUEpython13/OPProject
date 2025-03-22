@@ -1,0 +1,10 @@
+{card_name}Tot Musica
+{card_code}P-060
+{category}Event
+{color}Green
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may rest 1 of your [Uta] cards: Rest up to 2 of your opponent's DON!! cards.
+{type}Music/FILM

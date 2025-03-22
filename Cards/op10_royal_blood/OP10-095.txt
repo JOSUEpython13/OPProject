@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}OP10-095
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[On Play] You may rest 1 of your {Dressrosa} type Leader or Stage cards: K.O. up to 1 of your opponent's Characters with a cost of 4 or less. Then, trash 2 cards from the top of your deck.
+{type}Dressrosa/Supernovas/Straw Hat Crew

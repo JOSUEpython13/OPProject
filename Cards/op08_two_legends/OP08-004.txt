@@ -1,0 +1,10 @@
+{card_name}Kuromarimo
+{card_code}OP08-004
+{category}Character
+{color}Red
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] If you have [Chess], K.O. up to 1 of your opponent's Characters with 3000 power or less.
+{type}Drum Kingdom

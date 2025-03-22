@@ -1,0 +1,10 @@
+{card_name}Adio
+{card_code}OP03-002
+{category}Character
+{color}Red
+{cost}4
+{power}5000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] Your opponent cannot activate a [Blocker] Character that has 2000 or less power during this battle.
+{type}ODYSSEY

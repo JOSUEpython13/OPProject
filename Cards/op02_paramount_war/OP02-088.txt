@@ -1,0 +1,10 @@
+{card_name}Sphinx
+{card_code}OP02-088
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal/Impel Down

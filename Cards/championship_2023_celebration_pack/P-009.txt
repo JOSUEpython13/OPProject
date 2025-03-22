@@ -1,0 +1,10 @@
+{card_name}Trafalgar Law
+{card_code}P-009
+{category}Character
+{color}Blue
+{cost}6
+{power}7000
+{atributte}Slash
+{counter}
+{effect}[On Play] If your opponent has 6 or more cards in their hand, your opponent adds 1 card from their Life area to their hand.
+{type}Supernovas/Heart Pirates

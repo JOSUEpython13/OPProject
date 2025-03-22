@@ -1,0 +1,10 @@
+{card_name}There's No Way You Could Defeat Me!!
+{card_code}EB01-010
+{category}Event
+{color}Red
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Counter] K.O. up to 1 of your opponent's Characters with 6000 base power or less. [Trigger] K.O. up to 1 of your opponent's Characters with 5000 base power or less.
+{type}Water Seven/Straw Hat Crew

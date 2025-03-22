@@ -1,0 +1,10 @@
+{card_name}Donquixote Family
+{card_code}OP04-036
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Look at 5 cards from the top of your deck; reveal up to 1 {Donquixote Pirates} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [Counter] effect.
+{type}Donquixote Pirates

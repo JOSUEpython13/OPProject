@@ -1,0 +1,10 @@
+{card_name}Black Maria
+{card_code}OP04-052
+{category}Character
+{color}Black
+{cost}3
+{power}3000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Activate: Main] ➁ (You may rest the specified number of DON!! cards in your cost area.) You may rest this Character: Draw 1 card. [Trigger] Play this card.
+{type}Animal Kingdom Pirates

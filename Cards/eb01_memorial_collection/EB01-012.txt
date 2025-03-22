@@ -1,0 +1,10 @@
+{card_name}Cavendish
+{card_code}EB01-012
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play]/[When Attacking] If your Leader has the {Supernovas} type and you have no other [Cavendish] Characters, set up to 2 of your DON!! cards as active.
+{type}Supernovas/Beautiful Pirates

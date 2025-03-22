@@ -1,0 +1,10 @@
+{card_name}Army Wolves
+{card_code}EB01-032
+{category}Character
+{color}Purple
+{cost}5
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal/Impel Down

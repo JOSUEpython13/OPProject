@@ -1,0 +1,10 @@
+{card_name}Scratchmen Apoo
+{card_code}OP01-103
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates/On-Air Pirates

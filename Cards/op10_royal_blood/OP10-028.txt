@@ -1,0 +1,10 @@
+{card_name}Kouzuki Momonosuke
+{card_code}OP10-028
+{category}Character
+{color}Green
+{cost}1
+{power}1000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest 2 of your DON!! cards and trash this Character: Look at 5 cards from the top of your deck; reveal up to 2 {The Akazaya Nine} type cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Punk Hazard/Land of Wano/Kouzuki Clan

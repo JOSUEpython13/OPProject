@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}ST14-001
+{category}Leader
+{color}Black
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[DON!! x1] All of your Characters gain +1 cost. If you have a Character with a cost of 8 or more, this Leader gains +1000 power.
+{type}Straw Hat Crew

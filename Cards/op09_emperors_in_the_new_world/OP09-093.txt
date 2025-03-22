@@ -1,0 +1,10 @@
+{card_name}Marshall.D.Teach
+{card_code}OP09-093
+{category}Character
+{color}Black
+{cost}10
+{power}12000
+{atributte}Special
+{counter}
+{effect}[Blocker] [Activate: Main] [Once Per Turn] If your Leader has the {Blackbeard Pirates} type and this Character was played on this turn, negate the effect of up to 1 of your opponent's Leader during this turn. Then, negate the effect of up to 1 of your opponent's Characters and that Character cannot attack until the end of your opponent's next turn.
+{type}The Four Emperors/Blackbeard Pirates

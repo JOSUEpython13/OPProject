@@ -1,0 +1,10 @@
+{card_name}Jaguar.D.Saul
+{card_code}OP11-075
+{category}Character
+{color}Purple
+{cost}6
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[On Play] If your Leader is [Nico Robin] and you have 7 or more DON!! cards on your field, draw 2 cards. [Trigger] Activate this card's [On Play] effect.
+{type}Giant/Ohara/Former Navy

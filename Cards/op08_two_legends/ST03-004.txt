@@ -1,0 +1,10 @@
+{card_name}Gecko Moria
+{card_code}ST03-004
+{category}Character
+{color}Blue
+{cost}4
+{power}5000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Add up to 1 {The Seven Warlords of the Sea} or {Thriller Bark Pirates} type Character with a cost of 4 or less other than [Gecko Moria] from your trash to your hand.
+{type}The Seven Warlords of the Sea/Thriller Bark Pirates

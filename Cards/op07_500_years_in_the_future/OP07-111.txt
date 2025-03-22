@@ -1,0 +1,10 @@
+{card_name}Lilith
+{card_code}OP07-111
+{category}Character
+{color}Yellow
+{cost}3
+{power}5000
+{atributte}Wisdom
+{counter}
+{effect}[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Egghead} type card other than [Lilith] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] If your Leader is [Vegapunk], play this card.
+{type}Scientist/Egghead

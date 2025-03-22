@@ -1,0 +1,10 @@
+{card_name}Magellan
+{card_code}OP02-085
+{category}Character
+{color}Purple
+{cost}5
+{power}6000
+{atributte}Special
+{counter}
+{effect}[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : Your opponent returns 1 DON!! card from their field to their DON!! deck. [Opponent's Turn] When this Character is K.O.'d, your opponent returns 2 DON!! cards from their field to their DON!! deck.
+{type}Impel Down

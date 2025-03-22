@@ -1,0 +1,10 @@
+{card_name}Donquixote Doflamingo
+{card_code}OP04-019
+{category}Leader
+{color}Green / Purple
+{cost}
+{power}5000
+{atributte}Special
+{counter}
+{effect}[End of Your Turn] Set up to 2 of your DON!! cards as active.
+{type}The Seven Warlords of the Sea/Donquixote Pirates

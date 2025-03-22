@@ -1,0 +1,10 @@
+{card_name}ROOM
+{card_code}OP10-117
+{category}Event
+{color}Yellow
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] If you have 1 or less Life cards, up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, set up to 1 of your Characters with a cost of 5 or less as active. [Trigger] Draw 1 card.
+{type}Supernovas/Heart Pirates

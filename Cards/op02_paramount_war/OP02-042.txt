@@ -1,0 +1,10 @@
+{card_name}Yamato
+{card_code}OP02-042
+{category}Character
+{color}Green
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[On Play] Rest up to 1 of your opponent's Characters with a cost of 6 or less.
+{type}Land of Wano

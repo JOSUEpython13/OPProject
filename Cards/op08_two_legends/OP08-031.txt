@@ -1,0 +1,10 @@
+{card_name}Miyagi
+{card_code}OP08-031
+{category}Character
+{color}Green
+{cost}3
+{power}1000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Set up to 1 of your {Minks} type Characters with a cost of 2 or less as active.
+{type}Minks

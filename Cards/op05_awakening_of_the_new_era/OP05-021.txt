@@ -1,0 +1,10 @@
+{card_name}Revolutionary Army HQ
+{card_code}OP05-021
+{category}Stage
+{color}Red
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Activate: Main] You may trash 1 card from your hand and rest this Stage: Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Revolutionary Army

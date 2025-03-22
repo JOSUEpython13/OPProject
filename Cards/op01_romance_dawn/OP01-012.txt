@@ -1,0 +1,10 @@
+{card_name}Sai
+{card_code}OP01-012
+{category}Character
+{color}Red
+{cost}2
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Happosui Army

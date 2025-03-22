@@ -1,0 +1,10 @@
+{card_name}Jinbe
+{card_code}OP01-071
+{category}Character
+{color}Blue
+{cost}4
+{power}2000
+{atributte}Strike
+{counter}
+{effect}[On Play] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck. [Trigger] Play this card.
+{type}Fish-Man/Straw Hat Crew

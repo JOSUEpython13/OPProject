@@ -1,0 +1,10 @@
+{card_name}El Thor
+{card_code}OP05-114
+{category}Event
+{color}Yellow
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if your opponent has 2 or less Life cards, that card gains an additional +2000 power during this battle. [Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.
+{type}Sky Island

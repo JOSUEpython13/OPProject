@@ -1,0 +1,10 @@
+{card_name}Emptee Bluffs Island
+{card_code}OP09-060
+{category}Stage
+{color}Blue
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Activate: Main] You may place 2 cards from your hand at the bottom of your deck in any order and rest this Stage: If your Leader has the {Cross Guild} type, draw 2 cards.
+{type}Cross Guild

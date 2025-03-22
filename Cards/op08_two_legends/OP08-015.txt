@@ -1,0 +1,10 @@
+{card_name}Dr.Kureha
+{card_code}OP08-015
+{category}Character
+{color}Red
+{cost}1
+{power}2000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Tony Tony.Chopper] or {Drum Kingdom} type card other than [Dr.Kureha] and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Drum Kingdom

@@ -1,0 +1,10 @@
+{card_name}Kuroobi
+{card_code}OP03-026
+{category}Character
+{color}Green
+{cost}4
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader has the {East Blue} type, rest up to 1 of your opponent's Characters. [Trigger] Play this card.
+{type}Fish-Man/East Blue/Arlong Pirates

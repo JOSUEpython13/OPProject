@@ -1,0 +1,10 @@
+{card_name}Thousand Sunny
+{card_code}OP09-080
+{category}Stage
+{color}Purple
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Opponent's Turn] You may rest this Stage: When your {Straw Hat Crew} type Character is removed from the field by your opponent's effect, add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Straw Hat Crew

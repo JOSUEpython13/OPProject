@@ -1,0 +1,10 @@
+{card_name}Inuarashi
+{card_code}OP08-022
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader has the {Minks} type, up to 2 of your opponent's rested Characters with a cost of 5 or less will not become active in your opponent's next Refresh Phase.
+{type}Minks/The Akazaya Nine

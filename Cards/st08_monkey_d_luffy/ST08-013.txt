@@ -1,0 +1,10 @@
+{card_name}Mr.2.Bon.Kurei(Bentham)
+{card_code}ST08-013
+{category}Character
+{color}Black
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[DON!! x1] At the end of a battle in which this Character battles your opponent's Character, you may K.O. the opponent’s Character you battled with. If you do, K.O. this Character.
+{type}Former Baroque Works

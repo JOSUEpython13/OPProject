@@ -1,0 +1,10 @@
+{card_name}Stussy
+{card_code}OP07-085
+{category}Character
+{color}Black
+{cost}9
+{power}9000
+{atributte}Special
+{counter}
+{effect}[On Play] You may trash 1 of your Characters: K.O. up to 1 of your opponent's Characters.
+{type}CP0

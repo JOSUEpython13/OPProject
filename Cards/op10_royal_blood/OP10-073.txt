@@ -1,0 +1,10 @@
+{card_name}Buffalo
+{card_code}OP10-073
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Donquixote Pirates

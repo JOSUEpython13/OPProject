@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}ST12-008
+{category}Character
+{color}Green
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[DON!! x1] [When Attacking] Rest up to 1 of your opponent's Characters with a cost of 6 or less.
+{type}Straw Hat Crew

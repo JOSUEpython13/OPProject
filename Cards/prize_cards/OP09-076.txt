@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}OP09-076
+{category}Character
+{color}Purple
+{cost}3
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[On Play] You may return 1 or more DON!! cards from your field to your DON!! deck: Add up to 1 DON!! card from your DON!! deck and set it as active.
+{type}Straw Hat Crew

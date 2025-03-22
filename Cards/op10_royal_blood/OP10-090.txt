@@ -1,0 +1,10 @@
+{card_name}Franky
+{card_code}OP10-090
+{category}Character
+{color}Black
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Blocker] [On K.O.] Play up to 1 {Dressrosa} type Character card with a cost of 3 or less from your trash rested.
+{type}Dressrosa/Straw Hat Crew

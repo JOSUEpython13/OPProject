@@ -1,0 +1,10 @@
+{card_name}Ama no Murakumo Sword
+{card_code}OP06-056
+{category}Event
+{color}Blue
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] Place up to 1 of your opponent's Characters with a cost of 2 or less and up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck in any order. [Trigger] Activate this card's [Main] effect.
+{type}Navy

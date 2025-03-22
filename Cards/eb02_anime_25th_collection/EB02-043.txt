@@ -1,0 +1,10 @@
+{card_name}Jonathan
+{card_code}EB02-043
+{category}Character
+{color}Black
+{cost}7
+{power}9000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Navy

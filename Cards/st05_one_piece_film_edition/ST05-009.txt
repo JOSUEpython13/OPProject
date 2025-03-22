@@ -1,0 +1,10 @@
+{card_name}Scarlet
+{card_code}ST05-009
+{category}Character
+{color}Purple
+{cost}2
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Trigger] Play this card.
+{type}FILM/Animal/Golden Lion Pirates

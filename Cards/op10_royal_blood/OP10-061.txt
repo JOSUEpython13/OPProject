@@ -1,0 +1,10 @@
+{card_name}Special Long-Range Attack!! Bagworm
+{card_code}OP10-061
+{category}Event
+{color}Blue
+{cost}3
+{power}
+{atributte}Special
+{counter}
+{effect}[Main] Draw 1 card. Then, return up to 1 of your opponent's Characters with a cost of 2 or less to the owner's hand. [Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.
+{type}Dressrosa/Straw Hat Crew

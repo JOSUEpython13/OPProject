@@ -1,0 +1,10 @@
+{card_name}Striker
+{card_code}OP03-020
+{category}Stage
+{color}Red
+{cost}1
+{power}
+{atributte}Strike
+{counter}
+{effect}[Activate: Main] ② (You may rest the specified number of DON!! cards in your cost area.) You may rest this Stage: If your Leader is [Portgas.D.Ace], look at 5 cards from the top of your deck; reveal up to 1 Event and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Whitebeard Pirates

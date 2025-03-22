@@ -1,0 +1,10 @@
+{card_name}Zephyr
+{card_code}OP11-006
+{category}Character
+{color}Red
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] Give up to 1 of your opponent's <Special> attribute Characters −5000 power during this turn.
+{type}FILM/Neo Navy

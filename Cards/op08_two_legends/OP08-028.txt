@@ -1,0 +1,10 @@
+{card_name}Nekomamushi
+{card_code}OP08-028
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] If your opponent has 7 or more rested cards, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)
+{type}Minks/The Akazaya Nine

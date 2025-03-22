@@ -1,0 +1,10 @@
+{card_name}Hajrudin
+{card_code}OP01-018
+{category}Character
+{color}Red
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Giant/New Giant Pirates

@@ -1,0 +1,10 @@
+{card_name}Three Thousand Worlds
+{card_code}OP03-057
+{category}Event
+{color}Blue
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] Place up to 1 Character with a cost of 5 or less at the bottom of the owner's deck. [Trigger] Place up to 1 Character with a cost of 3 or less at the bottom of the owner's deck.
+{type}East Blue/Straw Hat Crew

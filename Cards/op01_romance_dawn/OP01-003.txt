@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP01-003
+{category}Leader
+{color}Green / Red
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[Activate: Main] [Once Per Turn] ➃ (You may rest the specified number of DON!! cards in your cost area.) : Set up to 1 of your {Supernovas} or {Straw Hat Crew} type Character cards with a cost of 5 or less as active. It gains +1000 power during this turn.
+{type}Supernovas/Straw Hat Crew

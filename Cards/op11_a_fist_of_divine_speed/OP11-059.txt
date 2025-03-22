@@ -1,0 +1,10 @@
+{card_name}Gum-Gum King Cobra
+{card_code}OP11-059
+{category}Event
+{color}Blue
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 4 or less cards in your hand, that card gains an additional +2000 power during this battle. [Trigger] Return up to 1 Character with a cost of 2 or less to the owner's hand.
+{type}Straw Hat Crew

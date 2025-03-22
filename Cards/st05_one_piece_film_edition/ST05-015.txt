@@ -1,0 +1,10 @@
+{card_name}Dr. Indigo
+{card_code}ST05-015
+{category}Character
+{color}Purple
+{cost}2
+{power}4000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Scientist/Golden Lion Pirates

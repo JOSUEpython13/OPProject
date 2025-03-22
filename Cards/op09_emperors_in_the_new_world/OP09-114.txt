@@ -1,0 +1,10 @@
+{card_name}Lindbergh
+{card_code}OP09-114
+{category}Character
+{color}Yellow
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] If you and your opponent have a total of 5 or less Life cards, K.O. up to 1 of your opponent's Characters with 2000 power or less. [Trigger] If you and your opponent have a total of 5 or less Life cards, play this card.
+{type}Minks/Revolutionary Army

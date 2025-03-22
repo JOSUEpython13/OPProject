@@ -1,0 +1,10 @@
+{card_name}Charlotte Cracker
+{card_code}ST20-002
+{category}Character
+{color}Yellow
+{cost}4
+{power}5000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 card from the top of your Life cards instead. [Trigger] You may trash 1 card from your hand: Play this card.
+{type}Big Mom Pirates

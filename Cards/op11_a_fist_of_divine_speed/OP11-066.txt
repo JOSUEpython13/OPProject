@@ -1,0 +1,10 @@
+{card_name}Charlotte Oven
+{card_code}OP11-066
+{category}Character
+{color}Purple
+{cost}4
+{power}5000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest this Character: Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, K.O. up to 1 of your opponent's Characters with a base cost of 3 or less. Then, add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Big Mom Pirates

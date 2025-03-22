@@ -1,0 +1,10 @@
+{card_name}Issho
+{card_code}OP05-042
+{category}Character
+{color}Blue
+{cost}6
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Up to 1 of your opponent's Characters with a cost of 7 or less cannot attack until the start of your next turn.
+{type}Navy

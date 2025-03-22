@@ -1,0 +1,10 @@
+{card_name}Komei
+{card_code}EB02-034
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Navy/Foxy Pirates

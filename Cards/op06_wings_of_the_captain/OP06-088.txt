@@ -1,0 +1,10 @@
+{card_name}Sai
+{card_code}OP06-088
+{category}Character
+{color}Black
+{cost}3
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Dressrosa/Happosui Army

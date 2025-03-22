@@ -1,0 +1,10 @@
+{card_name}Kalgara
+{card_code}OP08-098
+{category}Leader
+{color}Yellow
+{cost}
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[DON!! x1] [When Attacking] Play up to 1 {Shandian Warrior} type Character card from your hand with a cost equal to or less than the number of DON!! cards on your field. If you do, add 1 card from the top of your Life cards to your hand.
+{type}Jaya/Sky Island/Shandian Warrior

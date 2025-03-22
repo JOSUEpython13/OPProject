@@ -1,0 +1,10 @@
+{card_name}Rock
+{card_code}OP10-017
+{category}Character
+{color}Red
+{cost}2
+{power}3000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[On Play] If you don't have [Scotch], play up to 1 [Scotch] from your hand.
+{type}Punk Hazard

@@ -1,0 +1,10 @@
+{card_name}Tonjit
+{card_code}OP07-067
+{category}Character
+{color}Purple
+{cost}1
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Long Ring Long Land

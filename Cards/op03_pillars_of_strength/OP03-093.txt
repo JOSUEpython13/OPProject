@@ -1,0 +1,10 @@
+{card_name}Wanze
+{card_code}OP03-093
+{category}Character
+{color}Black
+{cost}2
+{power}4000
+{atributte}Slash
+{counter}
+{effect}[On Play] You may trash 1 card from your hand: If your Leader's type includes "CP", K.O. up to 1 of your opponent's Characters with a cost of 1 or less.
+{type}CP7

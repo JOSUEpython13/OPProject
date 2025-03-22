@@ -1,0 +1,10 @@
+{card_name}Mont Blanc Cricket
+{card_code}EB01-058
+{category}Character
+{color}Yellow
+{cost}2
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x1] [Your Turn] If you have 2 or less Life cards, this Character gains +2000 power.
+{type}Monkey Mountain Alliance

@@ -1,0 +1,10 @@
+{card_name}Salome
+{card_code}OP07-043
+{category}Character
+{color}Blue
+{cost}1
+{power}2000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Your Turn] [On Play] Up to 1 of your [Boa Hancock] cards gains +2000 power during this turn.
+{type}Animal/Kuja Pirates

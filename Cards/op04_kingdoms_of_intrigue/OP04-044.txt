@@ -1,0 +1,10 @@
+{card_name}Kaido
+{card_code}OP04-044
+{category}Character
+{color}Blue
+{cost}10
+{power}12000
+{atributte}Strike
+{counter}
+{effect}[On Play] Return up to 1 Character with a cost of 8 or less and up to 1 Character with a cost of 3 or less to the owner's hand.
+{type}The Four Emperors/Animal Kingdom Pirates

@@ -1,0 +1,10 @@
+{card_name}O-Nami
+{card_code}OP05-062
+{category}Character
+{color}Purple
+{cost}1
+{power}1000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}
+{type}Straw Hat Crew

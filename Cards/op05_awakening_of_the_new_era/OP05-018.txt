@@ -1,0 +1,10 @@
+{card_name}Emporio Energy Hormone
+{card_code}OP05-018
+{category}Event
+{color}Red
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, play up to 1 {Revolutionary Army} type Character card with 5000 power or less from your hand. [Trigger] Play up to 1 {Revolutionary Army} type Character card with 5000 power or less from your hand.
+{type}Revolutionary Army

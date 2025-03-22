@@ -1,0 +1,10 @@
+{card_name}Douglas Bullet
+{card_code}OP06-010
+{category}Character
+{color}Red
+{cost}6
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}FILM/The Pirates Fest

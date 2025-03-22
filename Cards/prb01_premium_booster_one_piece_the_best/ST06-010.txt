@@ -1,0 +1,10 @@
+{card_name}Helmeppo
+{card_code}ST06-010
+{category}Character
+{color}Black
+{cost}2
+{power}3000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Give up to 1 of your opponent's Characters −3 cost during this turn.
+{type}Navy

@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP07-073
+{category}Character
+{color}Purple
+{cost}6
+{power}7000
+{atributte}Strike
+{counter}
+{effect}[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : If your opponent has 3 or more Characters, set this Character as active.
+{type}Straw Hat Crew

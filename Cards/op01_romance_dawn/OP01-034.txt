@@ -1,0 +1,10 @@
+{card_name}Inuarashi
+{card_code}OP01-034
+{category}Character
+{color}Green
+{cost}3
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x2] [When Attacking] Set up to 1 of your DON!! cards as active.
+{type}Minks/Land of Wano/The Akazaya Nine

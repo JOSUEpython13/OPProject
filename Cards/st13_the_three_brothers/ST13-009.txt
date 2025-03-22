@@ -1,0 +1,10 @@
+{card_name}Shanks
+{card_code}ST13-009
+{category}Character
+{color}Yellow
+{cost}7
+{power}7000
+{atributte}Slash
+{counter}
+{effect}[On Play] You may turn 1 of your face-up Life cards face-down: If your opponent has 7 or more cards in their hand, trash up to 1 card from the top of your opponent's Life cards.
+{type}The Four Emperors/Red-Haired Pirates

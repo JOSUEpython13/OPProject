@@ -1,0 +1,10 @@
+{card_name}Tempest Kick Sky Slicer
+{card_code}OP03-096
+{category}Event
+{color}Black
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 1 of your opponent's Characters with a cost of 0 or your opponent's Stages with a cost of 3 or less. [Trigger] Draw 2 cards.
+{type}CP9

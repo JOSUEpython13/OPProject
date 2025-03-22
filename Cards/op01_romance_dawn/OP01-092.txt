@@ -1,0 +1,10 @@
+{card_name}Urashima
+{card_code}OP01-092
+{category}Character
+{color}Purple
+{cost}7
+{power}9000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Land of Wano

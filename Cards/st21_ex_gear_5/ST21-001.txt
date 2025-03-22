@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}ST21-001
+{category}Leader
+{color}Red
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[DON!! x1] [Activate: Main] [Once Per Turn] Give up to 2 rested DON!! cards to 1 of your Characters.
+{type}The Four Emperors/Straw Hat Crew

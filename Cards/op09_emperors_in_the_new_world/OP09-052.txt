@@ -1,0 +1,10 @@
+{card_name}Marco
+{card_code}OP09-052
+{category}Character
+{color}Blue
+{cost}3
+{power}5000
+{atributte}Special
+{counter}
+{effect}[Opponent's Turn] You may trash 1 card from your hand: When this Character is K.O.'d by your opponent's effect, play this Character card from your trash rested.
+{type}Whitebeard Pirates

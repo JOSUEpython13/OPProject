@@ -1,0 +1,10 @@
+{card_name}Basil Hawkins
+{card_code}OP01-106
+{category}Character
+{color}Purple
+{cost}4
+{power}2000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Add up to 1 DON!! card from your DON!! deck and rest it. [Trigger] Play this card.
+{type}Animal Kingdom Pirates/Hawkins Pirates

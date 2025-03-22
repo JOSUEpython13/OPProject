@@ -1,0 +1,10 @@
+{card_name}Charlotte Katakuri
+{card_code}OP08-063
+{category}Character
+{color}Purple
+{cost}6
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] You may turn 1 card from the top of your Life cards face-down: Add up to 1 DON!! card from your DON!! deck and set it as active.
+{type}Big Mom Pirates

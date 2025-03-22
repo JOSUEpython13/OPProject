@@ -1,0 +1,10 @@
+{card_name}Jabra
+{card_code}OP03-085
+{category}Character
+{color}Black
+{cost}5
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}CP9

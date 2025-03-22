@@ -1,0 +1,10 @@
+{card_name}Ice Age
+{card_code}OP02-117
+{category}Event
+{color}Black
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] Give up to 1 of your opponent's Characters −5 cost during this turn. [Trigger] K.O. up to 1 of your opponent's Characters with a cost of 3 or less.
+{type}Navy

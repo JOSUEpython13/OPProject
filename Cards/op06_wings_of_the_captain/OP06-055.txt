@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Garp
+{card_code}OP06-055
+{category}Character
+{color}Blue
+{cost}5
+{power}7000
+{atributte}Strike
+{counter}
+{effect}[DON!! x2] [When Attacking] If you have 4 or less cards in your hand, your opponent cannot activate [Blocker] during this battle.
+{type}Navy

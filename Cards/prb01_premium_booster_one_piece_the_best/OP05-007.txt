@@ -1,0 +1,10 @@
+{card_name}Sabo
+{card_code}OP05-007
+{category}Character
+{color}Red
+{cost}6
+{power}7000
+{atributte}Special
+{counter}
+{effect}[On Play] K.O. up to 2 of your opponent's Characters with a total power of 4000 or less.
+{type}Revolutionary Army

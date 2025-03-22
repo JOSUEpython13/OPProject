@@ -1,0 +1,10 @@
+{card_name}Sunny-Kun
+{card_code}P-015
+{category}Character
+{color}Red
+{cost}1
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Straw Hat Crew

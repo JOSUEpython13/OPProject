@@ -1,0 +1,10 @@
+{card_name}Fleeting Lullaby
+{card_code}P-057
+{category}Event
+{color}Green
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Main] If your Leader is [Uta], up to 2 of your opponent's rested Characters with a cost of 4 or less will not become active in your opponent's next Refresh Phase. [Trigger] Activate this card's [Main] effect.
+{type}Music/FILM

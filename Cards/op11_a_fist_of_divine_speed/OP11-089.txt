@@ -1,0 +1,10 @@
+{card_name}Black Maria
+{card_code}OP11-089
+{category}Character
+{color}Black
+{cost}5
+{power}7000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates

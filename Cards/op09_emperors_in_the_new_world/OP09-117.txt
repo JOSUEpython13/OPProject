@@ -1,0 +1,10 @@
+{card_name}Dereshi!
+{card_code}OP09-117
+{category}Event
+{color}Yellow
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Main] Look at 5 cards from the top of your deck; reveal up to 2 cards with a [Trigger] other than [Dereshi!] and add them to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Draw 1 card.
+{type}Ohara

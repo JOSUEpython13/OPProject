@@ -1,0 +1,10 @@
+{card_name}Pappag
+{card_code}OP11-109
+{category}Character
+{color}Yellow
+{cost}1
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] If you have [Camie], draw 2 cards and trash 2 cards from your hand.
+{type}Animal/Fish-Man Island

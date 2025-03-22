@@ -1,0 +1,10 @@
+{card_name}You Can't Take Our King This Early in the Game.
+{card_code}OP08-054
+{category}Event
+{color}Blue
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +3000 power during this battle. Then, reveal 1 card from the top of your deck and play up to 1 Character card with a type including "Whitebeard Pirates" and a cost of 3 or less. Then, place the rest at the top or bottom of your deck.
+{type}Whitebeard Pirates

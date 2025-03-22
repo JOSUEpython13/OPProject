@@ -1,0 +1,10 @@
+{card_name}Sabo
+{card_code}OP09-027
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[When Attacking] [Once Per Turn] If you have 3 or more rested Characters, draw 1 card.
+{type}ODYSSEY/Revolutionary Army

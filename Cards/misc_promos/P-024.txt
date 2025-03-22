@@ -1,0 +1,10 @@
+{card_name}I'm Gonna Be King of the Pirates!!
+{card_code}P-024
+{category}Event
+{color}Green
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] Your Leader gains +1000 power for each of your Characters during this turn. [Trigger] Up to 1 of your Leader or Character cards gains +1000 power during this turn.
+{type}Supernovas/Straw Hat Crew

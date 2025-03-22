@@ -1,0 +1,10 @@
+{card_name}Cub
+{card_code}OP10-044
+{category}Character
+{color}Blue
+{cost}1
+{power}2000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] You may rest 1 of your {Dressrosa} type Leader or Stage cards: Return up to 1 of your opponent's Characters with a cost of 1 or less to the owner's hand.
+{type}The Tontattas/Dressrosa

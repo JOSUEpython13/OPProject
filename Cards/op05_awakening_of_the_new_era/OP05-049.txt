@@ -1,0 +1,10 @@
+{card_name}Haccha
+{card_code}OP05-049
+{category}Character
+{color}Blue
+{cost}6
+{power}7000
+{atributte}Strike
+{counter}
+{effect}[DON!! x1] [When Attacking] Return up to 1 Character with a cost of 3 or less to the owner's hand.
+{type}Giant/Animal Kingdom Pirates

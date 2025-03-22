@@ -1,0 +1,10 @@
+{card_name}Finger Pistol
+{card_code}EB01-051
+{category}Event
+{color}Black
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may trash 2 cards from the top of your deck: K.O. up to 1 of your opponent's Characters with a cost of 5 or less. [Trigger] Activate this card's [Main] effect.
+{type}CP9

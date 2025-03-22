@@ -1,0 +1,10 @@
+{card_name}Tashigi
+{card_code}OP11-007
+{category}Character
+{color}Red
+{cost}1
+{power}1000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest this Character: If your Leader has the {Navy} type, up to 1 of your {Navy} type Characters gains +2000 power during this turn.
+{type}Navy

@@ -1,0 +1,10 @@
+{card_name}Vinsmoke Sanji
+{card_code}OP07-061
+{category}Character
+{color}Purple
+{cost}1
+{power}0
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : If your Leader has the {The Vinsmoke Family} type, draw 1 card.
+{type}Kingdom of GERMA/The Vinsmoke Family

@@ -1,0 +1,10 @@
+{card_name}Nami
+{card_code}OP03-040
+{category}Leader
+{color}Blue
+{cost}
+{power}5000
+{atributte}Wisdom
+{counter}
+{effect}[DON!! x1] When this Leader's attack deals damage to your opponent's Life, you may trash 1 card from the top of your deck.
+{type}East Blue

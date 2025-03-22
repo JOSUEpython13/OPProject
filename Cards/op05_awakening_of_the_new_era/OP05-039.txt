@@ -1,0 +1,10 @@
+{card_name}Stick-Stickem Meteora
+{card_code}OP05-039
+{category}Event
+{color}Green
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +4000 power during this battle. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less. [Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less.
+{type}Donquixote Pirates

@@ -1,0 +1,10 @@
+{card_name}Electrical Luna
+{card_code}OP08-036
+{category}Event
+{color}Green
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Main] All of your opponent's rested Characters with a cost of 7 or less will not become active in your opponent's next Refresh Phase. [Trigger] Rest up to 1 of your opponent's Characters.
+{type}Minks

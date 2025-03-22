@@ -1,0 +1,10 @@
+{card_name}Hammond
+{card_code}OP06-032
+{category}Character
+{color}Green
+{cost}2
+{power}2000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)
+{type}Fish-Man/New Fish-Man Pirates

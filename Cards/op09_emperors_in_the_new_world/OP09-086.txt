@@ -1,0 +1,10 @@
+{card_name}Jesus Burgess
+{card_code}OP09-086
+{category}Character
+{color}Black
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Blackbeard Pirates

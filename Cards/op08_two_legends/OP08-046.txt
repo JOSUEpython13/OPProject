@@ -1,0 +1,10 @@
+{card_name}Shakuyaku
+{card_code}OP08-046
+{category}Character
+{color}Blue
+{cost}5
+{power}6000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Your Turn] [Once Per Turn] When a Character is removed from the field by your effect, if your opponent has 5 or more cards in their hand, your opponent places 1 card from their hand at the bottom of their deck. Then, rest this Character.
+{type}Amazon Lily

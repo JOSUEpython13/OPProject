@@ -1,0 +1,10 @@
+{card_name}Doc Q
+{card_code}OP09-090
+{category}Character
+{color}Black
+{cost}2
+{power}0
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest this Character: If your Leader has the {Blackbeard Pirates} type, K.O. up to 1 of your opponent's Characters with a cost of 1 or less. [On K.O.] Draw 1 card.
+{type}Blackbeard Pirates

@@ -1,0 +1,10 @@
+{card_name}Kiwi & Mozu
+{card_code}OP03-061
+{category}Character
+{color}Purple
+{cost}2
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Water Seven/The Franky Family

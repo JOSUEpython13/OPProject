@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP07-033
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Supernovas/Straw Hat Crew

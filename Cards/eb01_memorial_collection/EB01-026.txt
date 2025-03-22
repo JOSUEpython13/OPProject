@@ -1,0 +1,10 @@
+{card_name}Prince Bellett
+{card_code}EB01-026
+{category}Character
+{color}Blue
+{cost}2
+{power}2000
+{atributte}Ranged
+{counter}• 2000 Counter
+{effect}[DON!! x1] [When Attacking] If you have 1 or less cards in your hand, return up to 1 Character with a cost of 3 or less to the owner's hand.
+{type}Impel Down

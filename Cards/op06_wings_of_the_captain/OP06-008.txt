@@ -1,0 +1,10 @@
+{card_name}Schneider
+{card_code}OP06-008
+{category}Character
+{color}Red
+{cost}3
+{power}5000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Mugiwara Chase

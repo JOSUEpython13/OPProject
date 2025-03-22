@@ -1,0 +1,10 @@
+{card_name}Rebecca
+{card_code}OP04-039
+{category}Leader
+{color}Black / Blue
+{cost}
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[Activate: Main] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.) : If you have 6 or less cards in your hand, look at 2 cards from the top of your deck; reveal up to 1 {Dressrosa} type card and add it to your hand. Then, trash the rest.
+{type}Dressrosa

@@ -1,0 +1,10 @@
+{card_name}Speed
+{card_code}OP01-104
+{category}Character
+{color}Purple
+{cost}2
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Trigger] Play this card.
+{type}Animal Kingdom Pirates/SMILE

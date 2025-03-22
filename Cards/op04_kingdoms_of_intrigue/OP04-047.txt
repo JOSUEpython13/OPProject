@@ -1,0 +1,10 @@
+{card_name}Ice Oni
+{card_code}OP04-047
+{category}Character
+{color}Blue
+{cost}8
+{power}0
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Your Turn] At the end of a battle in which this Character battles your opponent's Character with a cost of 5 or less, place the opponent's Character you battled with at the bottom of the owner's deck.
+{type}Plague/Animal Kingdom Pirates

@@ -1,0 +1,10 @@
+{card_name}Charlotte Lola
+{card_code}OP11-052
+{category}Character
+{color}Blue
+{cost}5
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Firetank Pirates/Former Rolling Pirates

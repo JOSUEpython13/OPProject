@@ -1,0 +1,10 @@
+{card_name}I'm Gonna Be a Navy Officer!!!
+{card_code}OP11-099
+{category}Event
+{color}Black
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] Look at 3 cards from the top of your deck; reveal up to 1 {Navy} type card other than [I'm Gonna Be a Navy Officer!!!] and add it to your hand. Then, trash the rest. [Trigger] Activate this card's [Main] effect.
+{type}East Blue/Navy

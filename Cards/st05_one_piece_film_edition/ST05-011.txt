@@ -1,0 +1,10 @@
+{card_name}Douglas Bullet
+{card_code}ST05-011
+{category}Character
+{color}Purple
+{cost}8
+{power}10000
+{atributte}Special
+{counter}
+{effect}[Activate: Main] [Once Per Turn] DON!! −4 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : Rest up to 2 of your opponent's Characters with a cost of 6 or less. Then, this Character gains [Double Attack] during this turn. (This card deals 2 damage.)
+{type}FILM/The Pirates Fest

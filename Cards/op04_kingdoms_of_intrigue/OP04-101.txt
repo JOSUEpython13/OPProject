@@ -1,0 +1,10 @@
+{card_name}Carmel
+{card_code}OP04-101
+{category}Character
+{color}Yellow
+{cost}2
+{power}1000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Your Turn] [On Play] Draw 1 card. [Trigger] Play this card. Then, K.O. up to 1 of your opponent's Characters with a cost of 2 or less.
+{type}The House of Lambs

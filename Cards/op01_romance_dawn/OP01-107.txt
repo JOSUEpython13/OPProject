@@ -1,0 +1,10 @@
+{card_name}Babanuki
+{card_code}OP01-107
+{category}Character
+{color}Purple
+{cost}5
+{power}7000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates/SMILE

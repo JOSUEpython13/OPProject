@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP10-111
+{category}Character
+{color}Yellow
+{cost}1
+{power}2000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Supernovas} type card other than [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Supernovas/Straw Hat Crew

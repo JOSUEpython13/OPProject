@@ -1,0 +1,10 @@
+{card_name}Issho
+{card_code}OP04-020
+{category}Leader
+{color}Black / Green
+{cost}
+{power}5000
+{atributte}Special
+{counter}
+{effect}[DON!! x1] [Your Turn] Give all of your opponent's Characters −1 cost. [End of Your Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.) : Set up to 1 of your Characters with a cost of 5 or less as active.
+{type}Navy

@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP11-040
+{category}Leader
+{color}Blue / Purple
+{cost}
+{power}6000
+{atributte}Strike
+{counter}
+{effect}
+{type}Straw Hat Crew

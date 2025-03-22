@@ -1,0 +1,10 @@
+{card_name}Crocodile
+{card_code}OP01-067
+{category}Character
+{color}Blue
+{cost}7
+{power}7000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [DON!! x1] Give blue Events in your hand −1 cost.
+{type}The Seven Warlords of the Sea/Baroque Works

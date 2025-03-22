@@ -1,0 +1,10 @@
+{card_name}Portgas.D.Ace
+{card_code}EB02-028
+{category}Character
+{color}Blue
+{cost}5
+{power}5000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader's type includes "Whitebeard Pirates", look at 5 cards from the top of your deck; reveal up to 1 Character card with a cost of 2 and add it to your hand. Then, place the rest at the bottom of your deck in any order and play up to 1 Character card with a cost of 2 from your hand rested.
+{type}Alabasta/Whitebeard Pirates

@@ -1,0 +1,10 @@
+{card_name}Raizo
+{card_code}OP01-052
+{category}Character
+{color}Green
+{cost}3
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[When Attacking] [Once Per Turn] If you have 2 or more rested Characters, draw 1 card.
+{type}Land of Wano/The Akazaya Nine

@@ -1,0 +1,10 @@
+{card_name}Cognac Mama-Mash
+{card_code}OP11-081
+{category}Event
+{color}Purple
+{cost}6
+{power}
+{atributte}
+{counter}
+{effect}[Main] Choose a cost and reveal 1 card from the top of your opponent's deck. If the revealed card has the chosen cost, K.O. up to 1 of your opponent's Characters with a base cost of 8 or less. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.
+{type}The Four Emperors/Big Mom Pirates

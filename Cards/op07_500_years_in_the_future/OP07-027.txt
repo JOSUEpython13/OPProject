@@ -1,0 +1,10 @@
+{card_name}Jinbe
+{card_code}OP07-027
+{category}Character
+{color}Green
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Fish-Man/The Sun Pirates

@@ -1,0 +1,10 @@
+{card_name}Ice Block Partisan
+{card_code}OP09-115
+{category}Event
+{color}Yellow
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 1 of your opponent's Characters with a cost of 3 or less and a [Trigger]. [Trigger] Draw 1 card.
+{type}Navy

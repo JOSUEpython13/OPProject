@@ -1,0 +1,10 @@
+{card_name}Air Door
+{card_code}OP03-094
+{category}Event
+{color}Black
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] If your Leader's type includes "CP", look at 5 cards from the top of your deck; play up to 1 Character card with a type including "CP" and a cost of 5 or less. Then, trash the rest. [Trigger] Play up to 1 black Character card with a cost of 3 or less from your trash.
+{type}CP9

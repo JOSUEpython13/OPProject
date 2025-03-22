@@ -1,0 +1,10 @@
+{card_name}Nami
+{card_code}OP10-013
+{category}Character
+{color}Red
+{cost}5
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Punk Hazard/Straw Hat Crew

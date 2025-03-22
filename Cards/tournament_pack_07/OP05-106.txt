@@ -1,0 +1,10 @@
+{card_name}Shura
+{card_code}OP05-106
+{category}Character
+{color}Yellow
+{cost}2
+{power}2000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Sky Island} type card other than [Shura] and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Play this card.
+{type}Sky Island/Vassals

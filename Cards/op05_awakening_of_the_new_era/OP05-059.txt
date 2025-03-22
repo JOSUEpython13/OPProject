@@ -1,0 +1,10 @@
+{card_name}Let Us Begin the World of Violence!!!
+{card_code}OP05-059
+{category}Event
+{color}Blue
+{cost}5
+{power}
+{atributte}
+{counter}
+{effect}[Main] If your Leader is multicolored, draw 1 card. Then, return up to 1 Character with a cost of 5 or less to the owner's hand. [Trigger] If your Leader is multicolored, draw 2 cards.
+{type}The Four Emperors/Animal Kingdom Pirates

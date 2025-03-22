@@ -1,0 +1,10 @@
+{card_name}Howling Gab
+{card_code}OP09-006
+{category}Character
+{color}Red
+{cost}5
+{power}7000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}
+{type}Red-Haired Pirates

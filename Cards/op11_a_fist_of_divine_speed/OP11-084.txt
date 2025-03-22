@@ -1,0 +1,10 @@
+{card_name}Kuzan
+{card_code}OP11-084
+{category}Character
+{color}Black
+{cost}4
+{power}5000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Trash 3 cards from the top of your deck. [When Attacking] Up to 1 of your {Navy} type Leader or Character cards can also attack active Characters during this turn.
+{type}Navy

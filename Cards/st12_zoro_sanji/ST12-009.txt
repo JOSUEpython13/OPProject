@@ -1,0 +1,10 @@
+{card_name}Elephant True Bluefin
+{card_code}ST12-009
+{category}Character
+{color}Blue
+{cost}1
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal

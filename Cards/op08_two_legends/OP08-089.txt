@@ -1,0 +1,10 @@
+{card_name}Basil Hawkins
+{card_code}OP08-089
+{category}Character
+{color}Black
+{cost}7
+{power}9000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates/Hawkins Pirates

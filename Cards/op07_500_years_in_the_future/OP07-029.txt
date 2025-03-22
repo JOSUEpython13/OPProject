@@ -1,0 +1,10 @@
+{card_name}Basil Hawkins
+{card_code}OP07-029
+{category}Character
+{color}Green
+{cost}6
+{power}7000
+{atributte}Slash
+{counter}
+{effect}[Once Per Turn] If this Character would be removed from the field by your opponent's effect, you may rest 1 of your opponent's Characters instead.
+{type}Supernovas/Hawkins Pirates

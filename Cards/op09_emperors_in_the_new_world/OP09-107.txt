@@ -1,0 +1,10 @@
+{card_name}Nico Robin
+{card_code}OP09-107
+{category}Character
+{color}Yellow
+{cost}6
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] If your opponent has 3 or more Life cards, trash up to 1 card from the top of your opponent's Life cards. [Trigger] Play up to 1 yellow Character card with a cost of 3 or less from your hand.
+{type}Straw Hat Crew

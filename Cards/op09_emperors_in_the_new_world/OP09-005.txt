@@ -1,0 +1,10 @@
+{card_name}Silvers Rayleigh
+{card_code}OP09-005
+{category}Character
+{color}Red
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] If your opponent has 2 or more Characters with a base power of 5000 or more, draw 2 cards and trash 1 card from your hand.
+{type}Roger Pirates

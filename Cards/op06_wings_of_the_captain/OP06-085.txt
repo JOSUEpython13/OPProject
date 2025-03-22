@@ -1,0 +1,10 @@
+{card_name}Kumacy
+{card_code}OP06-085
+{category}Character
+{color}Black
+{cost}2
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x2] [Your Turn] This Character gains +1000 power for every 5 cards in your trash.
+{type}Thriller Bark Pirates

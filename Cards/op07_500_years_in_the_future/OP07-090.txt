@@ -1,0 +1,10 @@
+{card_name}Morgans
+{card_code}OP07-090
+{category}Character
+{color}Black
+{cost}2
+{power}2000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Your opponent trashes 1 card from their hand and reveals their hand. Then, your opponent draws 1 card.
+{type}Journalist

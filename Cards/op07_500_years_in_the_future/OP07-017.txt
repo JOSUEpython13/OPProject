@@ -1,0 +1,10 @@
+{card_name}Dragon Breath
+{card_code}OP07-017
+{category}Event
+{color}Red
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 1 of your opponent's Characters with 3000 power or less and up to 1 of your opponent's Stages with a cost of 1 or less. [Trigger] Activate this card's [Main] effect.
+{type}Revolutionary Army

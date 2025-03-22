@@ -1,0 +1,10 @@
+{card_name}Pell
+{card_code}OP04-013
+{category}Character
+{color}Red
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[DON!! x1] [When Attacking] K.O. up to 1 of your opponent's Characters with 4000 power or less.
+{type}Alabasta

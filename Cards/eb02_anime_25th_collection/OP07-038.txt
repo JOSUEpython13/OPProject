@@ -1,0 +1,10 @@
+{card_name}Boa Hancock
+{card_code}OP07-038
+{category}Leader
+{color}Blue
+{cost}
+{power}5000
+{atributte}Special
+{counter}
+{effect}[Your Turn] [Once Per Turn] This effect can be activated when a Character is removed from the field by your effect. If you have 5 or less cards in your hand, draw 1 card.
+{type}The Seven Warlords of the Sea/Kuja Pirates

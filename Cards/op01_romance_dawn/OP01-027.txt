@@ -1,0 +1,10 @@
+{card_name}Round Table
+{card_code}OP01-027
+{category}Event
+{color}Red
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] Give up to 1 of your opponent's Characters −10000 power during this turn.
+{type}Supernovas/Beautiful Pirates

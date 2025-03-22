@@ -1,0 +1,10 @@
+{card_name}Nico Robin
+{card_code}OP07-104
+{category}Character
+{color}Yellow
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Trigger] If your Leader has the {Egghead} type, draw 2 cards.
+{type}Egghead/Straw Hat Crew

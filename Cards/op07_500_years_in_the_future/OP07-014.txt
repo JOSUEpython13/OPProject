@@ -1,0 +1,10 @@
+{card_name}Moda
+{card_code}OP07-014
+{category}Character
+{color}Red
+{cost}1
+{power}0
+{atributte}Wisdom
+{counter}• 2000 Counter
+{effect}[Your Turn] [On Play] Up to 1 of your [Portgas.D.Ace] cards gains +2000 power during this turn.
+{type}Lulucia Kingdom

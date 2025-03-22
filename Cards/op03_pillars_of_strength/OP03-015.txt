@@ -1,0 +1,10 @@
+{card_name}Lim
+{card_code}OP03-015
+{category}Character
+{color}Red
+{cost}3
+{power}2000
+{atributte}Wisdom
+{counter}
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Opponent's Turn] When this Character is K.O.'d, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.
+{type}ODYSSEY

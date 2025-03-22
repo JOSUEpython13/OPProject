@@ -1,0 +1,10 @@
+{card_name}Chinjao
+{card_code}OP04-086
+{category}Character
+{color}Black
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x1] When this Character battles and K.O.'s your opponent's Character, draw 2 cards and trash 2 cards from your hand.
+{type}Dressrosa/Happosui Army

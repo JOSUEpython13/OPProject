@@ -1,0 +1,10 @@
+{card_name}Kotori
+{card_code}OP05-103
+{category}Character
+{color}Yellow
+{cost}3
+{power}3000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] If you have [Hotori], K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.
+{type}Sky Island

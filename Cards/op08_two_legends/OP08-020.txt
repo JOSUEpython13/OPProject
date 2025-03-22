@@ -1,0 +1,10 @@
+{card_name}Drum Kingdom
+{card_code}OP08-020
+{category}Stage
+{color}Red
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Opponent's Turn] All of your {Drum Kingdom} type Characters gain +1000 power.
+{type}Drum Kingdom

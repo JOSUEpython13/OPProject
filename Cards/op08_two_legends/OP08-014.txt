@@ -1,0 +1,10 @@
+{card_name}Wapol
+{card_code}OP08-014
+{category}Character
+{color}Red
+{cost}6
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn. Then, this Character gains +2000 power until the end of your opponent's next turn.
+{type}Drum Kingdom

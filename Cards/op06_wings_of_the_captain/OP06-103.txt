@@ -1,0 +1,10 @@
+{card_name}Kawamatsu
+{card_code}OP06-103
+{category}Character
+{color}Yellow
+{cost}3
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[When Attacking] You may trash 2 cards from your hand: Add up to 1 of your Characters with 0 power to the top or bottom of the owner's Life cards face-up. [Trigger] If your opponent has 3 or less Life cards, play this card.
+{type}Fish-Man/Land of Wano/The Akazaya Nine

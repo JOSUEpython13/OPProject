@@ -1,0 +1,10 @@
+{card_name}Nero
+{card_code}OP03-087
+{category}Character
+{color}Black
+{cost}3
+{power}5000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}
+{type}CP9

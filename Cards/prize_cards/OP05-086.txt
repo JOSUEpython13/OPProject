@@ -1,0 +1,10 @@
+{card_name}Nefeltari Vivi
+{card_code}OP05-086
+{category}Character
+{color}Black
+{cost}1
+{power}1000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Alabasta

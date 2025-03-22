@@ -1,0 +1,10 @@
+{card_name}Jozu
+{card_code}OP08-047
+{category}Character
+{color}Blue
+{cost}6
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] You may return 1 of your Characters other than this Character to the owner's hand: Return up to 1 Character with a cost of 6 or less to the owner's hand.
+{type}Whitebeard Pirates

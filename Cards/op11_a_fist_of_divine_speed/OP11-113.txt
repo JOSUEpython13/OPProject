@@ -1,0 +1,10 @@
+{card_name}Ryuboshi
+{card_code}OP11-113
+{category}Character
+{color}Yellow
+{cost}5
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Merfolk/Fish-Man Island

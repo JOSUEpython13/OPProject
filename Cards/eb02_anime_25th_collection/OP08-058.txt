@@ -1,0 +1,10 @@
+{card_name}Charlotte Pudding
+{card_code}OP08-058
+{category}Leader
+{color}Yellow / Purple
+{cost}
+{power}5000
+{atributte}Wisdom
+{counter}
+{effect}[When Attacking] You may turn 2 cards from the top of your Life cards face-up: Add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Big Mom Pirates

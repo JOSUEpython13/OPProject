@@ -1,0 +1,10 @@
+{card_name}Bins
+{card_code}OP11-011
+{category}Character
+{color}Red
+{cost}5
+{power}7000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Neo Navy

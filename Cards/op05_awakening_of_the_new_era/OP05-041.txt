@@ -1,0 +1,10 @@
+{card_name}Sakazuki
+{card_code}OP05-041
+{category}Leader
+{color}Black / Blue
+{cost}
+{power}5000
+{atributte}Special
+{counter}
+{effect}[Activate: Main] [Once Per Turn] You may trash 1 card from your hand: Draw 1 card. [When Attacking] Give up to 1 of your opponent's Characters −1 cost during this turn.
+{type}Navy

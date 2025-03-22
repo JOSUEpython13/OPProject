@@ -1,0 +1,10 @@
+{card_name}Myskina Olga
+{card_code}EB02-053
+{category}Character
+{color}Yellow
+{cost}3
+{power}4000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play]/[On K.O.] Look at up to 1 card from the top of your or your opponent's Life cards and place it at the top or bottom of the Life cards.
+{type}Alchemi

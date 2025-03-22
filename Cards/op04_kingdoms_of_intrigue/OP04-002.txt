@@ -1,0 +1,10 @@
+{card_name}Igaram
+{card_code}OP04-002
+{category}Character
+{color}Red
+{cost}2
+{power}3000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest this Character and give your 1 active Leader −5000 power during this turn: Look at 5 cards from the top of your deck; reveal up to 1 {Alabasta} type card and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Alabasta

@@ -1,0 +1,10 @@
+{card_name}Itomimizu
+{card_code}OP07-060
+{category}Character
+{color}Purple
+{cost}3
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Activate: Main] [Once Per Turn] If your Leader has the {Foxy Pirates} type and you have no other [Itomimizu], add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Foxy Pirates

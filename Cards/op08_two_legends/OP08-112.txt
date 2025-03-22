@@ -1,0 +1,10 @@
+{card_name}S-Snake
+{card_code}OP08-112
+{category}Character
+{color}Yellow
+{cost}5
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Up to 1 of your opponent's Characters with a cost of 6 or less other than [Monkey.D.Luffy] cannot attack until the end of your opponent's next turn. [Trigger] Activate this card's [On Play] effect.
+{type}Egghead/Seraphim

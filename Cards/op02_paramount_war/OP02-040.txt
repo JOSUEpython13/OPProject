@@ -1,0 +1,10 @@
+{card_name}Brook
+{card_code}OP02-040
+{category}Character
+{color}Green
+{cost}4
+{power}5000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Play up to 1 {FILM} or {Straw Hat Crew} type Character card with a cost of 3 or less from your hand.
+{type}FILM/Straw Hat Crew

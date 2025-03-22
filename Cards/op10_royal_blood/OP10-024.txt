@@ -1,0 +1,10 @@
+{card_name}Edward.Newgate
+{card_code}OP10-024
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] If you have 2 or more rested Characters, rest up to 1 of your opponent's Characters with a cost of 5 or less. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 3 or less.
+{type}ODYSSEY/The Four Emperors/Whitebeard Pirates

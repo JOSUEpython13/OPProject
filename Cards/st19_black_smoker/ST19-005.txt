@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Garp
+{card_code}ST19-005
+{category}Character
+{color}Black
+{cost}3
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Activate: Main] [Once Per Turn] You may place 1 card from your trash at the bottom of your deck: Give up to 1 of your opponent's Characters −1 cost during this turn.
+{type}Navy

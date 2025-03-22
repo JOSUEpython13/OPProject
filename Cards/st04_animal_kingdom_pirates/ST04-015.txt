@@ -1,0 +1,10 @@
+{card_name}Brachio Bomber
+{card_code}ST04-015
+{category}Event
+{color}Purple
+{cost}6
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 1 of your opponent's Characters with a cost of 6 or less, then add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] Add up to 1 DON!! card from your DON!! deck and set it as active.
+{type}Animal Kingdom Pirates

@@ -1,0 +1,10 @@
+{card_name}Fighting Fish
+{card_code}OP10-069
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[DON!! x1] [When Attacking] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : K.O. up to 1 of your opponent's Characters with a cost of 1 or less.
+{type}Animal/Dressrosa

@@ -1,0 +1,10 @@
+{card_name}Fake Straw Hat Crew
+{card_code}EB02-005
+{category}Character
+{color}Red
+{cost}2
+{power}3000
+{atributte}Ranged
+{counter}
+{effect}[Your Turn] This Character gains +2000 power. [Opponent's Turn] Give this Character −2000 power.
+{type}Fake Straw Hat Crew

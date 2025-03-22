@@ -1,0 +1,10 @@
+{card_name}Mansherry
+{card_code}OP10-056
+{category}Character
+{color}Blue
+{cost}2
+{power}0
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] You may rest 1 of your {Dressrosa} type Leader or Stage cards, and return 1 of your {Dressrosa} type Characters with a cost of 4 or more to the owner's hand: Return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.
+{type}The Tontattas/Dressrosa

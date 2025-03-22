@@ -1,0 +1,10 @@
+{card_name}Charlotte Pudding
+{card_code}OP09-087
+{category}Character
+{color}Black
+{cost}2
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] If your opponent has 5 or more cards in their hand, your opponent trashes 1 card from their hand.
+{type}Big Mom Pirates

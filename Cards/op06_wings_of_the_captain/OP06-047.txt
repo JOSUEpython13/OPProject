@@ -1,0 +1,10 @@
+{card_name}Charlotte Pudding
+{card_code}OP06-047
+{category}Character
+{color}Blue
+{cost}4
+{power}4000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Your opponent returns all cards in their hand to their deck and shuffles their deck. Then, your opponent draws 5 cards.
+{type}Big Mom Pirates

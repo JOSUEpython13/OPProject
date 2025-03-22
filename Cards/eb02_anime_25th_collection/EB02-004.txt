@@ -1,0 +1,10 @@
+{card_name}Don Accino
+{card_code}EB02-004
+{category}Character
+{color}Red
+{cost}8
+{power}10000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}
+{type}Accino Family

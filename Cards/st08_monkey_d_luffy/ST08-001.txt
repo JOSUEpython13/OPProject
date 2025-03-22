@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}ST08-001
+{category}Leader
+{color}Black
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[Your Turn] When a Character is K.O.'d, give up to 1 rested DON!! card to this Leader.
+{type}Straw Hat Crew

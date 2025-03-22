@@ -1,0 +1,10 @@
+{card_name}Momonga
+{card_code}ST06-011
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Navy

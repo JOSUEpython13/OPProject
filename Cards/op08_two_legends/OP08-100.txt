@@ -1,0 +1,10 @@
+{card_name}South Bird
+{card_code}OP08-100
+{category}Character
+{color}Yellow
+{cost}1
+{power}2000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Look at 7 cards from the top of your deck and play up to 1 [Upper Yard]. Then, place the rest at the bottom of your deck in any order.
+{type}Animal/Jaya/Sky Island

@@ -1,0 +1,10 @@
+{card_name}Gaimon
+{card_code}ST08-003
+{category}Character
+{color}Black
+{cost}2
+{power}4000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}East Blue

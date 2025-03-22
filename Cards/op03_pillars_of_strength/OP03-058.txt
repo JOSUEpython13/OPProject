@@ -1,0 +1,10 @@
+{card_name}Iceburg
+{card_code}OP03-058
+{category}Leader
+{color}Purple
+{cost}
+{power}5000
+{atributte}Wisdom
+{counter}
+{effect}[Activate: Main] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) You may rest this Leader: Play up to 1 {Galley-La Company} type Character card with a cost of 5 or less from your hand.
+{type}Water Seven/Galley-La Company

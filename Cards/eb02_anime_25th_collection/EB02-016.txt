@@ -1,0 +1,10 @@
+{card_name}Chopperman
+{card_code}EB02-016
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] Play up to 1 {Animal} type Character card with a cost of 3 or less from your hand.
+{type}Animal/Straw Hat Crew

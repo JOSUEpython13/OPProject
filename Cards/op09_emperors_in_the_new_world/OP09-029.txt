@@ -1,0 +1,10 @@
+{card_name}Tony Tony.Chopper
+{card_code}OP09-029
+{category}Character
+{color}Green
+{cost}3
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[End of Your Turn] Set up to 1 of your {ODYSSEY} type Characters with a cost of 4 or less as active.
+{type}ODYSSEY/Animal/Straw Hat Crew

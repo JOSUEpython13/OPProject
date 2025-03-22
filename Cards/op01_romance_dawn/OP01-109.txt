@@ -1,0 +1,10 @@
+{card_name}Who's.Who
+{card_code}OP01-109
+{category}Character
+{color}Purple
+{cost}2
+{power}3000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x1] [Your Turn] If you have 8 or more DON!! cards on your field, this Character gains +1000 power.
+{type}Animal Kingdom Pirates

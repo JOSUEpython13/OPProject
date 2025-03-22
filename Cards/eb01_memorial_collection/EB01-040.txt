@@ -1,0 +1,10 @@
+{card_name}Kyros
+{card_code}EB01-040
+{category}Leader
+{color}Yellow / Black
+{cost}
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[Activate: Main] [Once Per Turn] You may turn 1 card from the top of your Life cards face-up: K.O. up to 1 of your opponent's Characters with a cost of 0.
+{type}Dressrosa

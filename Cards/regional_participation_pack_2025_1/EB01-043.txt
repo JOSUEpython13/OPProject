@@ -1,0 +1,10 @@
+{card_name}Spandine
+{card_code}EB01-043
+{category}Character
+{color}Black
+{cost}3
+{power}2000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] You may place 3 cards with a type including "CP" from your trash at the bottom of your deck in any order: Play up to 1 Character card with a type including "CP" and a cost of 4 or less other than [Spandine] from your trash rested.
+{type}CP9

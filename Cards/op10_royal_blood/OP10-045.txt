@@ -1,0 +1,10 @@
+{card_name}Cavendish
+{card_code}OP10-045
+{category}Character
+{color}Blue
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[When Attacking] [Once Per Turn] Draw 2 cards and trash 1 card from your hand.
+{type}Dressrosa/Beautiful Pirates

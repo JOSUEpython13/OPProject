@@ -1,0 +1,10 @@
+{card_name}Hotori
+{card_code}OP05-111
+{category}Character
+{color}Yellow
+{cost}3
+{power}3000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] You may play 1 [Kotori] from your hand: Add up to 1 of your opponent's Characters with a cost of 3 or less to the top or bottom of your opponent's Life cards face-up.
+{type}Sky Island

@@ -1,0 +1,10 @@
+{card_name}Jack
+{card_code}OP04-049
+{category}Character
+{color}Blue
+{cost}2
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On K.O.] Draw 1 card.
+{type}Animal Kingdom Pirates

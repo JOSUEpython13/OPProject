@@ -1,0 +1,10 @@
+{card_name}Koby
+{card_code}ST02-006
+{category}Character
+{color}Green
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Navy

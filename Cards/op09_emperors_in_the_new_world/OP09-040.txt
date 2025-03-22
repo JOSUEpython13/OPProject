@@ -1,0 +1,10 @@
+{card_name}Thunder Lance Flip Caliber Phoenix Shot
+{card_code}OP09-040
+{category}Event
+{color}Green
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Main] If you have 2 or more rested Characters, K.O. up to 1 of your opponent's Characters with a cost of 4 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.
+{type}ODYSSEY/Supernovas/Straw Hat Crew

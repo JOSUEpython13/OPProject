@@ -1,0 +1,10 @@
+{card_name}Tony Tony.Chopper
+{card_code}OP09-068
+{category}Character
+{color}Purple
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[End of Your Turn] You may return 1 or more DON!! cards from your field to your DON!! deck: Set this Character as active. Then, this Character gains [Blocker] until the end of your opponent's next turn.
+{type}Animal/Straw Hat Crew

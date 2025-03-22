@@ -1,0 +1,10 @@
+{card_name}Kaido
+{card_code}P-005
+{category}Character
+{color}Purple
+{cost}7
+{power}8000
+{atributte}Strike
+{counter}
+{effect}[Activate: Main]  DON!! −2 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : This Character gains [Banish] during this turn. (When this card deals damage, the target card is trashed without activating its Trigger.)
+{type}The Four Emperors/Animal Kingdom Pirates

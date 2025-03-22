@@ -1,0 +1,10 @@
+{card_name}Yamato
+{card_code}P-046
+{category}Character
+{color}Purple
+{cost}1
+{power}2000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] You may place all cards in your hand at the bottom of your deck in any order. If you do, draw cards equal to the number you placed at the bottom of your deck.
+{type}Land of Wano

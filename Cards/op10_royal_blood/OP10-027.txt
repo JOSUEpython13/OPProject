@@ -1,0 +1,10 @@
+{card_name}Kin'emon
+{card_code}OP10-027
+{category}Character
+{color}Green
+{cost}2
+{power}0
+{atributte}Slash
+{counter}• 2000 Counter
+{effect}[Activate: Main] You may place this Character and 1 [Kin'emon] with 1000 power from your trash at the bottom of your deck in any order: Play up to 1 [Kin'emon] with a cost of 6 from your hand.
+{type}Punk Hazard/Land of Wano/The Akazaya Nine

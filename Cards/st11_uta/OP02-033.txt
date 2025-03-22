@@ -1,0 +1,10 @@
+{card_name}Jinbe
+{card_code}OP02-033
+{category}Character
+{color}Green
+{cost}2
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Fish-Man/Straw Hat Crew

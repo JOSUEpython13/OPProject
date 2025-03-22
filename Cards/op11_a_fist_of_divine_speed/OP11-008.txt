@@ -1,0 +1,10 @@
+{card_name}Doll
+{card_code}OP11-008
+{category}Character
+{color}Red
+{cost}4
+{power}1000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Blocker] [On Play] You may trash 1 card from your hand: If your Leader has the {Navy} type, give up to 1 of your opponent's Characters −6000 power during this turn.
+{type}Navy

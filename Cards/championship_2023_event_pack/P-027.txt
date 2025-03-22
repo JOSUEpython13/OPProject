@@ -1,0 +1,10 @@
+{card_name}General Franky
+{card_code}P-027
+{category}Character
+{color}Red
+{cost}2
+{power}4000
+{atributte}Ranged
+{counter}
+{effect}[Opponent's Turn] All of your Characters with a base power of 3000 or less gain +1000 Power.
+{type}Straw Hat Crew

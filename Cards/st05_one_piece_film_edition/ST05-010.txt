@@ -1,0 +1,10 @@
+{card_name}Zephyr
+{card_code}ST05-010
+{category}Character
+{color}Purple
+{cost}7
+{power}8000
+{atributte}Strike
+{counter}
+{effect}[Activate: Main] [Once Per Turn] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : This Character gains +2000 power during this turn.
+{type}FILM/Neo Navy

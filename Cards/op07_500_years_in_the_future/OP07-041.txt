@@ -1,0 +1,10 @@
+{card_name}Gloriosa (Grandma Nyon)
+{card_code}OP07-041
+{category}Character
+{color}Blue
+{cost}1
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Look at 5 cards from the top of your deck; reveal up to 1 {Amazon Lily} or {Kuja Pirates} type card other than [Gloriosa (Grandma Nyon) ] and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Amazon Lily

@@ -1,0 +1,10 @@
+{card_name}Buggy
+{card_code}OP09-051
+{category}Character
+{color}Blue
+{cost}10
+{power}12000
+{atributte}Slash
+{counter}
+{effect}[On Play] Place up to 1 of your opponent's Characters at the bottom of the owner's deck. Then, if you do not have 5 Characters with a cost of 5 or more, place this Character at the bottom of the owner's deck.
+{type}The Four Emperors/Cross Guild

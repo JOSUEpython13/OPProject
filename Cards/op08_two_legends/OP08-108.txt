@@ -1,0 +1,10 @@
+{card_name}Mont Blanc Cricket
+{card_code}OP08-108
+{category}Character
+{color}Yellow
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Jaya/Monkey Mountain Alliance

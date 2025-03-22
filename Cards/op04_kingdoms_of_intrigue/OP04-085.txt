@@ -1,0 +1,10 @@
+{card_name}Suleiman
+{card_code}OP04-085
+{category}Character
+{color}Black
+{cost}3
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play]/[When Attacking] If your Leader has the {Dressrosa} type, give up to 1 of your opponent's Characters −2 cost during this turn. Then, trash 1 card from the top of your deck.
+{type}Dressrosa

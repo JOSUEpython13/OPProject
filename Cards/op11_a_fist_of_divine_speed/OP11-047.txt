@@ -1,0 +1,10 @@
+{card_name}Vinsmoke Reiju
+{card_code}OP11-047
+{category}Character
+{color}Blue
+{cost}4
+{power}5000
+{atributte}Special
+{counter}• 2000 Counter
+{effect}[On Play] If your Leader has the {The Vinsmoke Family} type, look at 5 cards from the top of your deck; reveal up to 1 card with a type including "GERMA" and add it to your hand. Then, trash the rest.
+{type}The Vinsmoke Family/GERMA 66

@@ -1,0 +1,10 @@
+{card_name}Galley-La Company
+{card_code}OP03-075
+{category}Stage
+{color}Purple
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Activate: Main] You may rest this Stage: If your Leader is [Iceburg], add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Water Seven/Galley-La Company

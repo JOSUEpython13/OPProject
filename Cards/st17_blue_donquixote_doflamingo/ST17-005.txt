@@ -1,0 +1,10 @@
+{card_name}Marshall.D.Teach
+{card_code}ST17-005
+{category}Character
+{color}Blue
+{cost}2
+{power}3000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Activate: Main] [Once Per Turn] You may place 1 card from your hand at the top of your deck: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.
+{type}The Seven Warlords of the Sea/Blackbeard Pirates

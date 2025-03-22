@@ -1,0 +1,10 @@
+{card_name}Marshall.D.Teach
+{card_code}ST03-014
+{category}Character
+{color}Blue
+{cost}4
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Return up to 1 Character with a cost of 3 or less to the owner's hand.
+{type}The Seven Warlords of the Sea/Blackbeard Pirates

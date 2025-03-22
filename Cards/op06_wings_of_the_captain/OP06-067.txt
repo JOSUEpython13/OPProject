@@ -1,0 +1,10 @@
+{card_name}Vinsmoke Yonji
+{card_code}OP06-067
+{category}Character
+{color}Purple
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)
+{type}The Vinsmoke Family/GERMA 66

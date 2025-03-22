@@ -1,0 +1,10 @@
+{card_name}Blamenco
+{card_code}OP03-011
+{category}Character
+{color}Red
+{cost}2
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.
+{type}Whitebeard Pirates

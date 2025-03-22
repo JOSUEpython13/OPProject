@@ -1,0 +1,10 @@
+{card_name}Kyoshirou
+{card_code}OP01-095
+{category}Character
+{color}Purple
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Draw 1 card if you have 8 or more DON!! cards on your field.
+{type}Land of Wano

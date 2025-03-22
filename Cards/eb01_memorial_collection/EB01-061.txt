@@ -1,0 +1,10 @@
+{card_name}Mr.2.Bon.Kurei(Bentham)
+{card_code}EB01-061
+{category}Character
+{color}Purple
+{cost}4
+{power}1000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Add up to 1 DON!! card from your DON!! deck and set it as active. [When Attacking] Select up to 1 of your opponent's Characters. This Character's base power becomes the same as the selected Character's power during this turn.
+{type}Former Baroque Works

@@ -1,0 +1,10 @@
+{card_name}Izo
+{card_code}EB01-002
+{category}Character
+{color}Red
+{cost}5
+{power}7000
+{atributte}Ranged
+{counter}
+{effect}[On Play] Give up to 1 rested DON!! card to your Leader or 1 of your Characters. [On Your Opponent's Attack] [Once Per Turn] You may trash 1 card from your hand: If your Leader has the {Land of Wano} or {Whitebeard Pirates} type, give up to 1 of your opponent's Leader or Character cards −2000 power during this turn.
+{type}Land of Wano/Whitebeard Pirates

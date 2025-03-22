@@ -1,0 +1,10 @@
+{card_name}Dracule Mihawk
+{card_code}P-052
+{category}Character
+{color}Blue
+{cost}6
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x1] This Character cannot be K.O.'d in battle by <Slash> attribute cards.
+{type}The Seven Warlords of the Sea

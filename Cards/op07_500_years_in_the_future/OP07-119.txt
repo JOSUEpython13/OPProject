@@ -1,0 +1,10 @@
+{card_name}Portgas.D.Ace
+{card_code}OP07-119
+{category}Character
+{color}Yellow
+{cost}10
+{power}10000
+{atributte}Special
+{counter}
+{effect}[On Play] Add up to 1 card from the top of your deck to the top of your Life cards. Then, if you have 2 or less Life cards, this Character gains [Rush] during this turn. (This card can attack on the turn in which it is played.)
+{type}Whitebeard Pirates

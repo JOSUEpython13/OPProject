@@ -1,0 +1,10 @@
+{card_name}Sterry
+{card_code}OP05-083
+{category}Character
+{color}Black
+{cost}2
+{power}4000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Goa Kingdom

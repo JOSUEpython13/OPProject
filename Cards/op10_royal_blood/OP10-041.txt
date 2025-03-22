@@ -1,0 +1,10 @@
+{card_name}Radio Knife
+{card_code}OP10-041
+{category}Event
+{color}Green
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] Rest up to 1 of your opponent's Characters with a cost of 6 or less. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 5 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.
+{type}Dressrosa/Supernovas/Heart Pirates

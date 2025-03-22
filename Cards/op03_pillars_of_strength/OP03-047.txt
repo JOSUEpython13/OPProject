@@ -1,0 +1,10 @@
+{card_name}Zeff
+{card_code}OP03-047
+{category}Character
+{color}Blue
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x1] When this Character's attack deals damage to your opponent's Life, you may trash 7 cards from the top of your deck. [On Play] You may return up to 1 Character with a cost of 3 or less to the owner's hand, and you may trash 2 cards from the top of your deck.
+{type}East Blue

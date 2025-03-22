@@ -1,0 +1,10 @@
+{card_name}Bad Manners Kick Course
+{card_code}OP04-016
+{category}Event
+{color}Red
+{cost}0
+{power}
+{atributte}
+{counter}
+{effect}[Counter] You may trash 1 card from your hand: Up to 1 of your Leader or Character cards gains +3000 power during this battle. [Trigger] Give up to 1 of your opponent's Leader or Character cards −3000 power during this turn.
+{type}Alabasta/Straw Hat Crew

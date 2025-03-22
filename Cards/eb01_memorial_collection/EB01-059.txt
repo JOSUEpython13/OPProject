@@ -1,0 +1,10 @@
+{card_name}Kingdom Come
+{card_code}EB01-059
+{category}Event
+{color}Yellow
+{cost}6
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 1 of your opponent's Characters. Then, trash cards from the top of your Life cards until you have 1 Life card. [Trigger] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the total of your and your opponent's Life cards.
+{type}Sky Island

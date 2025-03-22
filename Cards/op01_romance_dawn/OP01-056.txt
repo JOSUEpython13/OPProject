@@ -1,0 +1,10 @@
+{card_name}Demon Face
+{card_code}OP01-056
+{category}Event
+{color}Green
+{cost}6
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 2 of your opponent's rested Characters with a cost of 5 or less.
+{type}Supernovas/Hawkins Pirates

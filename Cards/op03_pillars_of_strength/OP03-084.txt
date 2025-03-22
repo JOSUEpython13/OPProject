@@ -1,0 +1,10 @@
+{card_name}Jerry
+{card_code}OP03-084
+{category}Character
+{color}Black
+{cost}2
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}CP6

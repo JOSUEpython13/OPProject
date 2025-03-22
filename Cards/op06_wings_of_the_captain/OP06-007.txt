@@ -1,0 +1,10 @@
+{card_name}Shanks
+{card_code}OP06-007
+{category}Character
+{color}Red
+{cost}10
+{power}12000
+{atributte}Slash
+{counter}
+{effect}[On Play] K.O. up to 1 of your opponent's Characters with 10000 power or less.
+{type}FILM/The Four Emperors/Red-Haired Pirates

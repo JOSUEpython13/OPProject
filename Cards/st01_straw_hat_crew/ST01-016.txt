@@ -1,0 +1,10 @@
+{card_name}Diable Jambe
+{card_code}ST01-016
+{category}Event
+{color}Red
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] Select up to 1 of your {Straw Hat Crew} type Leader or Character cards. Your opponent cannot activate [Blocker] if that Leader or Character attacks during this turn. [Trigger] K.O. up to 1 of your opponent's [Blocker] Characters with a cost of 3 or less.
+{type}Straw Hat Crew

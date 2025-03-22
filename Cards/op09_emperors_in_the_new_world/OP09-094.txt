@@ -1,0 +1,10 @@
+{card_name}Peachbeard
+{card_code}OP09-094
+{category}Character
+{color}Black
+{cost}3
+{power}5000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Peachbeard Pirates/Blackbeard Pirates Allies

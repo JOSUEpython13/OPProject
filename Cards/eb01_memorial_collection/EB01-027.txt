@@ -1,0 +1,10 @@
+{card_name}Mr.1(Daz.Bonez)
+{card_code}EB01-027
+{category}Character
+{color}Blue
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Draw 2 cards and trash 1 card from your hand.
+{type}Baroque Works

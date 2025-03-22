@@ -1,0 +1,10 @@
+{card_name}Dice
+{card_code}OP07-007
+{category}Character
+{color}Red
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Grantesoro

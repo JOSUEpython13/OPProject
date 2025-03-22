@@ -1,0 +1,10 @@
+{card_name}Wanda
+{card_code}OP02-044
+{category}Character
+{color}Green
+{cost}2
+{power}3000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Play up to 1 {Minks} type Character card other than [Wanda] with a cost of 3 or less from your hand.
+{type}Minks

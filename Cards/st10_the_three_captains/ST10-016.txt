@@ -1,0 +1,10 @@
+{card_name}Gum-Gum Kong Gatling
+{card_code}ST10-016
+{category}Event
+{color}Red
+{cost}5
+{power}
+{atributte}
+{counter}
+{effect}[Main] K.O. up to 1 of your opponent's Characters with 7000 power or less. [Trigger] Up to 1 of your Leader gains +1000 power until the end of your next turn.
+{type}Straw Hat Crew

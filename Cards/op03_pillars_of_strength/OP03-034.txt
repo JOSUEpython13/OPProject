@@ -1,0 +1,10 @@
+{card_name}Buchi
+{card_code}OP03-034
+{category}Character
+{color}Green
+{cost}4
+{power}5000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] K.O. up to 1 of your opponent's rested Characters with a cost of 2 or less.
+{type}East Blue/Black Cat Pirates

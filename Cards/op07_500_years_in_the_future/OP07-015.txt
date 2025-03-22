@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Dragon
+{card_code}OP07-015
+{category}Character
+{color}Red
+{cost}8
+{power}9000
+{atributte}Special
+{counter}
+{effect}[Rush] (This card can attack on the turn in which it is played.) [On Play] Give up to 2 rested DON!! cards to your Leader or 1 of your Characters.
+{type}Revolutionary Army

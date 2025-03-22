@@ -1,0 +1,10 @@
+{card_name}Ain
+{card_code}OP07-002
+{category}Character
+{color}Red
+{cost}7
+{power}6000
+{atributte}Special
+{counter}
+{effect}[On Play] Set the power of up to 1 of your opponent's Characters to 0 during this turn.
+{type}FILM/Neo Navy

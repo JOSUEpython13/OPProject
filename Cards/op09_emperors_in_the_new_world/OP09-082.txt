@@ -1,0 +1,10 @@
+{card_name}Avalo Pizarro
+{card_code}OP09-082
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}
+{type}Blackbeard Pirates

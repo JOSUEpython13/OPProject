@@ -1,0 +1,10 @@
+{card_name}Magellan
+{card_code}EB02-038
+{category}Character
+{color}Purple
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Play up to 1 {Impel Down} type Character card with a cost of 2 or less from your hand.
+{type}Impel Down

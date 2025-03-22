@@ -1,0 +1,10 @@
+{card_name}Reject
+{card_code}OP06-116
+{category}Event
+{color}Yellow
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] Choose one: • K.O. up to 1 of your opponent's Characters with a cost of 5 or less. • If your opponent has 1 Life card, deal 1 damage to your opponent. Then, add 1 card from the top of your Life cards to your hand. [Trigger] Draw 1 card.
+{type}Sky Island/Shandian Warrior

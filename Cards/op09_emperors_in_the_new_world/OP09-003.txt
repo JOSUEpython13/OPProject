@@ -1,0 +1,10 @@
+{card_name}Shachi & Penguin
+{card_code}OP09-003
+{category}Character
+{color}Red
+{cost}4
+{power}5000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[When Attacking] Give up to 1 of your opponent's Characters −2000 power during this turn.
+{type}Heart Pirates

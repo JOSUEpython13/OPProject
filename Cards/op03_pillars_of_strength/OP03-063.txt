@@ -1,0 +1,10 @@
+{card_name}Zambai
+{card_code}OP03-063
+{category}Character
+{color}Purple
+{cost}3
+{power}2000
+{atributte}Slash
+{counter}
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : If your Leader has the {Water Seven} type, draw 1 card.
+{type}Water Seven/The Franky Family

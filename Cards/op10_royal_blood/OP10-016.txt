@@ -1,0 +1,10 @@
+{card_name}Monet
+{card_code}OP10-016
+{category}Character
+{color}Red
+{cost}2
+{power}3000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest this Character: Give up to 2 rested DON!! cards to your Leader or 1 of your Characters. Then, give up to 1 of your opponent's Characters −1000 power during this turn.
+{type}Punk Hazard/Donquixote Pirates

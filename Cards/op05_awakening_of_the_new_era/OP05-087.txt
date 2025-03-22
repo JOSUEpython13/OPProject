@@ -1,0 +1,10 @@
+{card_name}Hakuba
+{card_code}OP05-087
+{category}Character
+{color}Black
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] You may K.O. 1 of your Characters other than this Character: Give up to 1 of your opponent's Characters −5 cost during this turn.
+{type}Dressrosa/Beautiful Pirates

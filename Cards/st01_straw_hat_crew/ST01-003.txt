@@ -1,0 +1,10 @@
+{card_name}Karoo
+{card_code}ST01-003
+{category}Character
+{color}Red
+{cost}1
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal/Alabasta

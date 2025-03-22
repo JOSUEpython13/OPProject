@@ -1,0 +1,10 @@
+{card_name}Ripper
+{card_code}OP11-096
+{category}Character
+{color}Black
+{cost}1
+{power}1000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}East Blue/Navy

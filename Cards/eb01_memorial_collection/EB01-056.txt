@@ -1,0 +1,10 @@
+{card_name}Charlotte Flampe
+{card_code}EB01-056
+{category}Character
+{color}Yellow
+{cost}1
+{power}1000
+{atributte}Special
+{counter}• 2000 Counter
+{effect}[On Play] You may add 1 card from the top or bottom of your Life cards to your hand: Draw 1 card.
+{type}Big Mom Pirates

@@ -1,0 +1,10 @@
+{card_name}Jinbe
+{card_code}ST14-004
+{category}Character
+{color}Black
+{cost}3
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Activate: Main] [Once Per Turn] Up to 1 of your black {Straw Hat Crew} type Characters gains +2 cost until the end of your opponent's next turn.
+{type}Fish-Man/The Sun Pirates

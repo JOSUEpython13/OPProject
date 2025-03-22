@@ -1,0 +1,10 @@
+{card_name}Honesty Impact
+{card_code}OP11-018
+{category}Event
+{color}Red
+{cost}6
+{power}
+{atributte}
+{counter}
+{effect}[Main] Give up to 1 of your opponent's Characters −4000 power during this turn. Then, K.O. up to 1 of your opponent's Characters with 6000 power or less. [Trigger] K.O. up to 1 of your opponent's Characters with 6000 power or less.
+{type}Navy/SWORD

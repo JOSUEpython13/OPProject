@@ -1,0 +1,10 @@
+{card_name}Shishilian
+{card_code}OP08-025
+{category}Character
+{color}Green
+{cost}3
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Up to 1 of your opponent's rested Characters with a cost of 3 or less will not become active in your opponent's next Refresh Phase.
+{type}Minks

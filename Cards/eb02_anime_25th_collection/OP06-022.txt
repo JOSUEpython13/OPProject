@@ -1,0 +1,10 @@
+{card_name}Yamato
+{card_code}OP06-022
+{category}Leader
+{color}Yellow / Green
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[Double Attack] (This card deals 2 damage.) [Activate: Main] [Once Per Turn] If your opponent has 3 or less Life cards, give up to 2 rested DON!! cards to 1 of your Characters.
+{type}Land of Wano

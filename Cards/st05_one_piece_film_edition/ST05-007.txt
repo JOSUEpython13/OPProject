@@ -1,0 +1,10 @@
+{card_name}Gordon
+{card_code}ST05-007
+{category}Character
+{color}Purple
+{cost}1
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}FILM

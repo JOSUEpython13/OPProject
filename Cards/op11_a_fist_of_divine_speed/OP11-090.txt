@@ -1,0 +1,10 @@
+{card_name}Briscola
+{card_code}OP11-090
+{category}Character
+{color}Black
+{cost}2
+{power}2000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.)
+{type}Animal Kingdom Pirates/SMILE

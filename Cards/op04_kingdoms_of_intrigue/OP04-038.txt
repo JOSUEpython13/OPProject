@@ -1,0 +1,10 @@
+{card_name}The Weak Do Not Have the Right to Choose How They Die!!!
+{card_code}OP04-038
+{category}Event
+{color}Green
+{cost}5
+{power}
+{atributte}
+{counter}
+{effect}[Main]/[Counter] Rest up to 1 of your opponent's Leader or Character cards. Then, K.O. up to 1 of your opponent's rested Characters with a cost of 6 or less. [Trigger] Set up to 5 of your DON!! cards as active.
+{type}The Seven Warlords of the Sea/Donquixote Pirates

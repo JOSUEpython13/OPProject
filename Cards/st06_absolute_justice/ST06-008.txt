@@ -1,0 +1,10 @@
+{card_name}Hina
+{card_code}ST06-008
+{category}Character
+{color}Black
+{cost}3
+{power}5000
+{atributte}Special
+{counter}
+{effect}[On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.
+{type}Navy

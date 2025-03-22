@@ -1,0 +1,10 @@
+{card_name}Jinbe
+{card_code}OP09-067
+{category}Character
+{color}Purple
+{cost}7
+{power}9000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Fish-Man/Straw Hat Crew

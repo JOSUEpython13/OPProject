@@ -1,0 +1,10 @@
+{card_name}Franky
+{card_code}OP11-012
+{category}Character
+{color}Red
+{cost}4
+{power}4000
+{atributte}Strike
+{counter}• 2000 Counter
+{effect}[Your Turn] [Once Per Turn] When your opponent activates an Event, all of your Characters gain +2000 power during this turn.
+{type}Straw Hat Crew

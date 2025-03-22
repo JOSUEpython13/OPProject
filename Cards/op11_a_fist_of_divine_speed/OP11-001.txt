@@ -1,0 +1,10 @@
+{card_name}Koby
+{card_code}OP11-001
+{category}Leader
+{color}Black / Red
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[Once Per Turn] If your {Navy} type Character with 7000 base power or less would be removed from the field by your opponent's effect, you may place 3 cards from your trash at the bottom of your deck in any order instead.
+{type}Navy/SWORD

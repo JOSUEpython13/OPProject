@@ -1,0 +1,10 @@
+{card_name}Atmos
+{card_code}OP08-040
+{category}Character
+{color}Blue
+{cost}4
+{power}5000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] You may reveal 2 cards with a type including "Whitebeard Pirates" from your hand: If your Leader's type includes "Whitebeard Pirates", return up to 1 of your opponent's Characters with a cost of 4 or less to the owner's hand.
+{type}Whitebeard Pirates

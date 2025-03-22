@@ -1,0 +1,10 @@
+{card_name}Sanji
+{card_code}OP02-026
+{category}Leader
+{color}Blue / Green
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[Once Per Turn] When you play a Character with no base effect from your hand, if you have 3 or less Characters, set up to 2 of your DON!! cards as active.
+{type}Straw Hat Crew

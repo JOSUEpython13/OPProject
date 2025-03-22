@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}P-037
+{category}Character
+{color}Green
+{cost}2
+{power}4000
+{atributte}Strike
+{counter}
+{effect}[When Attacking] If you have 2 or more rested Characters, this Character gains +1000 power during this turn.
+{type}Straw Hat Crew

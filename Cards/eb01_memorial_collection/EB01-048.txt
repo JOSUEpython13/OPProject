@@ -1,0 +1,10 @@
+{card_name}Laboon
+{card_code}EB01-048
+{category}Character
+{color}Black
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −4 cost during this turn.
+{type}Animal

@@ -1,0 +1,10 @@
+{card_name}Slave Arrow
+{card_code}OP07-056
+{category}Event
+{color}Blue
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] You may return 1 of your Characters with a cost of 2 or more to the owner's hand: Up to 1 of your Leader or Character cards gains +4000 power during this battle. [Trigger] Draw 2 cards and place 2 cards from your hand at the bottom of your deck in any order.
+{type}The Seven Warlords of the Sea/Kuja Pirates

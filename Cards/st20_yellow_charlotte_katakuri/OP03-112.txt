@@ -1,0 +1,10 @@
+{card_name}Charlotte Pudding
+{card_code}OP03-112
+{category}Character
+{color}Yellow
+{cost}1
+{power}2000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Look at 4 cards from the top of your deck; reveal up to 1 [Sanji] or {Big Mom Pirates} type card other than [Charlotte Pudding] and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Big Mom Pirates

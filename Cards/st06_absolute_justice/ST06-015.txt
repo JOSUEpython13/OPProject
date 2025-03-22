@@ -1,0 +1,10 @@
+{card_name}Great Eruption
+{card_code}ST06-015
+{category}Event
+{color}Black
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] Draw 1 card. Then, give up to 1 of your opponent's Characters −2 cost during this turn. [Trigger] Your opponent chooses 1 card from their hand and trashes it.
+{type}Navy

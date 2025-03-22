@@ -1,0 +1,10 @@
+{card_name}Brook
+{card_code}OP01-022
+{category}Character
+{color}Red
+{cost}4
+{power}5000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] Give up to 2 of your opponent's Characters −2000 power during this turn.
+{type}Straw Hat Crew

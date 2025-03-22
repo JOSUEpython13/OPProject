@@ -1,0 +1,10 @@
+{card_name}KEEP OUT
+{card_code}OP07-018
+{category}Event
+{color}Red
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your {Revolutionary Army} type Characters gains +2000 power until the end of your next turn. [Trigger] Activate this card's [Counter] effect.
+{type}Impel Down/Revolutionary Army

@@ -1,0 +1,10 @@
+{card_name}Saldeath
+{card_code}OP11-064
+{category}Character
+{color}Purple
+{cost}6
+{power}8000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Impel Down

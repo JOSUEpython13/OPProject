@@ -1,0 +1,10 @@
+{card_name}Gedatsu
+{card_code}OP05-102
+{category}Character
+{color}Yellow
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] K.O. up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards.
+{type}Sky Island/Vassals

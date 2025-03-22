@@ -1,0 +1,10 @@
+{card_name}Bananagator
+{card_code}OP04-062
+{category}Character
+{color}Purple
+{cost}5
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal

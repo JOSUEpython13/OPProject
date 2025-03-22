@@ -1,0 +1,10 @@
+{card_name}Karmic Punishment
+{card_code}OP07-035
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +2000 power during this battle. Then, if you have 3 or more Characters, that card gains an additional +1000 power during this battle. [Trigger] K.O. up to 1 of your opponent's rested Characters with a cost of 4 or less.
+{type}Supernovas/Fallen Monk Pirates

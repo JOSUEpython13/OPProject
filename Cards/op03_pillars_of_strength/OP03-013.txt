@@ -1,0 +1,10 @@
+{card_name}Marco
+{card_code}OP03-013
+{category}Character
+{color}Red
+{cost}5
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Your Turn] [On Play] K.O. up to 1 of your opponent's Characters with 3000 power or less. [On K.O.] You may trash 1 Event from your hand: You may play this Character card from your trash rested.
+{type}Whitebeard Pirates

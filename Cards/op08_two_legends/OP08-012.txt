@@ -1,0 +1,10 @@
+{card_name}Lapins
+{card_code}OP08-012
+{category}Character
+{color}Red
+{cost}3
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x2] [When Attacking] If your Leader has the {Drum Kingdom} type, K.O. up to 1 of your opponent's Characters with 4000 power or less.
+{type}Animal/Drum Kingdom

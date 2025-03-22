@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP11-118
+{category}Character
+{color}Blue
+{cost}8
+{power}8000
+{atributte}Strike
+{counter}
+{effect}[Rush] [When Attacking] You may trash 1 card from your hand: Return up to 1 Character with a cost of 4 or less to the owner's hand. Then, give up to 1 rested DON!! card to your Leader or 1 of your Characters.
+{type}Straw Hat Crew

@@ -1,0 +1,10 @@
+{card_name}Uta
+{card_code}ST08-002
+{category}Character
+{color}Black
+{cost}2
+{power}3000
+{atributte}Special
+{counter}
+{effect}[Activate: Main] You may rest this Character: Give up to 1 of your opponent's Characters −2 cost during this turn.
+{type}FILM

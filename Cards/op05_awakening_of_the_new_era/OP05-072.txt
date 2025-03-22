@@ -1,0 +1,10 @@
+{card_name}Hone-Kichi
+{card_code}OP05-072
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[On Play] If you have 8 or more DON!! cards on your field, give up to 2 of your opponent's Characters −2000 power during this turn.
+{type}Straw Hat Crew

@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}OP04-014
+{category}Character
+{color}Red
+{cost}8
+{power}9000
+{atributte}Strike
+{counter}
+{effect}[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)
+{type}Alabasta/Straw Hat Crew

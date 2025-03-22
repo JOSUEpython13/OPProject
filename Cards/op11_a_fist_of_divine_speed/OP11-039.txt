@@ -1,0 +1,10 @@
+{card_name}Vagabond Drill
+{card_code}OP11-039
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your {Fish-Man} or {Merfolk} type Leader or Character cards gains +3000 power during this battle. Then, rest up to 1 of your opponent's Characters with a cost of 3 or less. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 4 or less.
+{type}Fish-Man/Fish-Man Island/The Sun Pirates

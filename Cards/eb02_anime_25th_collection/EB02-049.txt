@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Garp
+{card_code}EB02-049
+{category}Character
+{color}Black
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[On Play] Give up to 2 rested DON!! cards to 1 of your Leader. [Activate: Main] You may rest this Character: If your Leader is [Monkey.D.Garp], K.O. up to 1 of your opponent's Characters with a cost of 1 or less.
+{type}Navy

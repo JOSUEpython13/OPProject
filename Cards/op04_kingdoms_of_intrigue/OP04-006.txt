@@ -1,0 +1,10 @@
+{card_name}Koza
+{card_code}OP04-006
+{category}Character
+{color}Red
+{cost}3
+{power}3000
+{atributte}Slash
+{counter}• 2000 Counter
+{effect}[When Attacking] You may give your 1 active Leader −5000 power during this turn: This Character gains +2000 power until the start of your next turn.
+{type}Alabasta

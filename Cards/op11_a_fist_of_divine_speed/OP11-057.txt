@@ -1,0 +1,10 @@
+{card_name}Pedro
+{card_code}OP11-057
+{category}Character
+{color}Blue
+{cost}1
+{power}1000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Minks

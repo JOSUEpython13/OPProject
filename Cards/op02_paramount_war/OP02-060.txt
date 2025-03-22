@@ -1,0 +1,10 @@
+{card_name}Mohji
+{card_code}OP02-060
+{category}Character
+{color}Blue
+{cost}1
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Buggy Pirates

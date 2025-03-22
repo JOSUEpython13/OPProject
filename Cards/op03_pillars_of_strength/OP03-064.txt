@@ -1,0 +1,10 @@
+{card_name}Tilestone
+{card_code}OP03-064
+{category}Character
+{color}Purple
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On K.O.] If your Leader has the {Galley-La Company} type, add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Water Seven/Galley-La Company

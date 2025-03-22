@@ -1,0 +1,10 @@
+{card_name}Neptune
+{card_code}OP11-108
+{category}Character
+{color}Yellow
+{cost}5
+{power}7000
+{atributte}Slash
+{counter}
+{effect}[On Play] If your Leader is [Shirahoshi], you may turn 1 card from the top of your Life cards face-down: Draw 2 cards and trash 1 card from your hand.
+{type}Merfolk/Fish-Man Island

@@ -1,0 +1,10 @@
+{card_name}Gum-Gum Elephant Gatling
+{card_code}OP11-038
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may rest 1 of your DON!! cards: Rest up to 1 of your opponent's Characters with a cost of 5 or less. [Counter] Up to 1 of your Leader gains +3000 power during this battle.
+{type}Fish-Man Island/Supernovas/Straw Hat Crew

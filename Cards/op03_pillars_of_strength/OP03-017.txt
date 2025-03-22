@@ -1,0 +1,10 @@
+{card_name}Cross Fire
+{card_code}OP03-017
+{category}Event
+{color}Red
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main]/[Counter] If your Leader's type includes "Whitebeard Pirates", give up to 1 of your opponent's Characters −4000 power during this turn. [Trigger] Activate this card's [Main] effect.
+{type}Whitebeard Pirates

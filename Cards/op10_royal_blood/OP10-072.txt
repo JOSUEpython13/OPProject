@@ -1,0 +1,10 @@
+{card_name}Donquixote Rosinante
+{card_code}OP10-072
+{category}Character
+{color}Purple
+{cost}5
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] You may trash 1 Event from your hand: Draw 2 cards. [End of Your Turn] If you have 7 or more DON!! cards on your field, set up to 2 of your DON!! cards as active.
+{type}Navy/Donquixote Pirates

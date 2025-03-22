@@ -1,0 +1,10 @@
+{card_name}Benn.Beckman
+{card_code}OP09-009
+{category}Character
+{color}Red
+{cost}7
+{power}7000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[On Play] Trash up to 1 of your opponent's Characters with 6000 power or less.
+{type}Red-Haired Pirates

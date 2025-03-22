@@ -1,0 +1,10 @@
+{card_name}Kumadori
+{card_code}OP03-082
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}CP9

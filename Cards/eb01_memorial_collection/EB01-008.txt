@@ -1,0 +1,10 @@
+{card_name}LittleOars Jr.
+{card_code}EB01-008
+{category}Character
+{color}Red
+{cost}6
+{power}7000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Once Per Turn] If this Character would be K.O.'d by an effect, you may trash 1 Event or Stage card from your hand instead.
+{type}Giant/Whitebeard Pirates Allies

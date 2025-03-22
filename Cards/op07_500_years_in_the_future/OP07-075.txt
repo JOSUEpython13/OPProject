@@ -1,0 +1,10 @@
+{card_name}Slow-Slow Beam
+{card_code}OP07-075
+{category}Event
+{color}Purple
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] DON!! −1 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : Give up to 1 each of your opponent's Leader and Character cards −2000 power during this turn.
+{type}Foxy Pirates

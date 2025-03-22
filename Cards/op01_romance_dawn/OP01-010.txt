@@ -1,0 +1,10 @@
+{card_name}Komachiyo
+{card_code}OP01-010
+{category}Character
+{color}Red
+{cost}1
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal/Land of Wano

@@ -1,0 +1,10 @@
+{card_name}Aphelandra
+{card_code}OP08-041
+{category}Character
+{color}Blue
+{cost}3
+{power}4000
+{atributte}Slash
+{counter}• 2000 Counter
+{effect}[Activate: Main] You may return this Character to the owner's hand: If your Leader has the {Kuja Pirates} type, place up to 1 of your opponent's Characters with a cost of 1 or less at the bottom of the owner's deck.
+{type}Amazon Lily

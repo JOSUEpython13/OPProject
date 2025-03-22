@@ -1,0 +1,10 @@
+{card_name}Franky
+{card_code}ST14-009
+{category}Character
+{color}Black
+{cost}5
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[DON!! x1] [Opponent's Turn] If you have a Character with a cost of 6 or more, this Character cannot be K.O.'d by your opponent's effects and gains +2000 power.
+{type}Straw Hat Crew

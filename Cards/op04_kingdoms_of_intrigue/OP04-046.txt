@@ -1,0 +1,10 @@
+{card_name}Queen
+{card_code}OP04-046
+{category}Character
+{color}Blue
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader has the {Animal Kingdom Pirates} type, look at 7 cards from the top of your deck; reveal a total of up to 2 [Plague Rounds] or [Ice Oni] cards and add them to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Animal Kingdom Pirates

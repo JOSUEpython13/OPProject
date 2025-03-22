@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}P-045
+{category}Character
+{color}Purple
+{cost}6
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.)
+{type}Straw Hat Crew

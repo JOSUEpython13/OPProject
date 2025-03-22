@@ -1,0 +1,10 @@
+{card_name}X Calibur
+{card_code}OP11-020
+{category}Event
+{color}Red
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] Give up to 2 of your opponent's Characters −2000 power during this turn. Then, up to 1 of your {Navy} type Characters gains +1000 power during this turn. [Trigger] K.O. up to 1 of your opponent's Characters with 4000 power or less.
+{type}Navy/SWORD/Drake Pirates

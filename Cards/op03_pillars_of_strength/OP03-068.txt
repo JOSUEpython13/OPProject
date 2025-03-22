@@ -1,0 +1,10 @@
+{card_name}Minozebra
+{card_code}OP03-068
+{category}Character
+{color}Purple
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Banish] (When this card deals damage, the target card is trashed without activating its Trigger.) [On K.O.] If your Leader has the {Impel Down} type, add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Impel Down/Jailer Beast

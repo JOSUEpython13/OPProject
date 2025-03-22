@@ -1,0 +1,10 @@
+{card_name}Kaido
+{card_code}P-010
+{category}Character
+{color}Purple
+{cost}8
+{power}9000
+{atributte}Special
+{counter}
+{effect}[End of Your Turn] Add 1 DON!! card from your DON!! deck and set it as active.
+{type}The Four Emperors/Animal Kingdom Pirates

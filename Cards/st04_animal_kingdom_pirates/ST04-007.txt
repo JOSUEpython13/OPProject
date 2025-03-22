@@ -1,0 +1,10 @@
+{card_name}Sheepshead
+{card_code}ST04-007
+{category}Character
+{color}Purple
+{cost}2
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates/Smile

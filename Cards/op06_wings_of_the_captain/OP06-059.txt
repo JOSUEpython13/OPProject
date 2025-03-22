@@ -1,0 +1,10 @@
+{card_name}White Snake
+{card_code}OP06-059
+{category}Event
+{color}Blue
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Up to 1 of your Leader or Character cards gains +1000 power during this turn, and draw 1 card. [Trigger] Look at 5 cards from the top of your deck and place them at the top or bottom of your deck in any order.
+{type}Navy

@@ -1,0 +1,10 @@
+{card_name}Holedem
+{card_code}OP01-113
+{category}Character
+{color}Purple
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On K.O.] Add up to 1 DON!! card from your DON!! deck and rest it.
+{type}Animal Kingdom Pirates/SMILE

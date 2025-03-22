@@ -1,0 +1,10 @@
+{card_name}Vegapunk
+{card_code}ST21-013
+{category}Character
+{color}Red
+{cost}1
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Scientist/Egghead

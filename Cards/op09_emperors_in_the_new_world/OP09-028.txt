@@ -1,0 +1,10 @@
+{card_name}Sanji
+{card_code}OP09-028
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On K.O.] You may add 1 card from the top or bottom of your Life cards to your hand: Play up to 1 {ODYSSEY} or {Straw Hat Crew} type Character card with a cost of 4 or less from your trash rested.
+{type}ODYSSEY/Straw Hat Crew

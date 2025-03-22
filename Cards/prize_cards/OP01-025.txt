@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}OP01-025
+{category}Character
+{color}Red
+{cost}3
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[Rush] (This card can attack on the turn in which it is played.)
+{type}Supernovas/Straw Hat Crew

@@ -1,0 +1,10 @@
+{card_name}Three-Pace Hum Soul Notch Slash
+{card_code}EB02-051
+{category}Event
+{color}Black
+{cost}3
+{power}
+{atributte}Slash
+{counter}
+{effect}[Main] Choose one: • K.O. up to 1 of your opponent's Characters with a cost of 2 or less. • Give up to 1 of your opponent's Characters −4 cost during this turn.
+{type}Former Rumbar Pirates

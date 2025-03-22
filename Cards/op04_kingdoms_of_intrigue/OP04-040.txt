@@ -1,0 +1,10 @@
+{card_name}Queen
+{card_code}OP04-040
+{category}Leader
+{color}Yellow / Blue
+{cost}
+{power}5000
+{atributte}Ranged
+{counter}
+{effect}[DON!! x1] [When Attacking] If you have a total of 4 or less cards in your Life area and hand, draw 1 card. If you have a Character with a cost of 8 or more, you may add up to 1 card from the top of your deck to the top of your Life cards instead of drawing 1 card.
+{type}Animal Kingdom Pirates

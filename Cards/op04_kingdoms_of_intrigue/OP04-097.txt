@@ -1,0 +1,10 @@
+{card_name}Otama
+{card_code}OP04-097
+{category}Character
+{color}Yellow
+{cost}1
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] Add up to 1 of your opponent's {Animal} or {SMILE} type Characters with a cost of 3 or less to the top of your opponent's Life cards face-up.
+{type}Land of Wano

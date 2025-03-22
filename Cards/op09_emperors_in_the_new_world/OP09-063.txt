@@ -1,0 +1,10 @@
+{card_name}Usopp
+{card_code}OP09-063
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}
+{type}Straw Hat Crew

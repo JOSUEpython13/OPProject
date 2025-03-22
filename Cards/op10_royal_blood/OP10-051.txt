@@ -1,0 +1,10 @@
+{card_name}Hack
+{card_code}OP10-051
+{category}Character
+{color}Blue
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] Look at 3 cards from the top of your deck; reveal up to 1 {Revolutionary Army} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order.
+{type}Fish-Man/Dressrosa/Revolutionary Army

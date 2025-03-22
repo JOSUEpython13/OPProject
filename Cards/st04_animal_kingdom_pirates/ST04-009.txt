@@ -1,0 +1,10 @@
+{card_name}Ginrummy
+{card_code}ST04-009
+{category}Character
+{color}Purple
+{cost}1
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates/Smile

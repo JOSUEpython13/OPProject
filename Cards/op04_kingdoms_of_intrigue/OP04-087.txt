@@ -1,0 +1,10 @@
+{card_name}Trafalgar Law
+{card_code}OP04-087
+{category}Character
+{color}Black
+{cost}5
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Dressrosa/Heart Pirates

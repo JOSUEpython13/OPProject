@@ -1,0 +1,10 @@
+{card_name}X.Drake
+{card_code}OP08-093
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[DON!! x1] This Character gains +2 cost.
+{type}Navy/Drake Pirates/Animal Kingdom Pirates

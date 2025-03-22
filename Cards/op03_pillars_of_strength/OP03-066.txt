@@ -1,0 +1,10 @@
+{card_name}Paulie
+{card_code}OP03-066
+{category}Character
+{color}Purple
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[On Play] ➁ (You may rest the specified number of DON!! cards in your cost area.) : Add up to 1 DON!! card from your DON!! deck and set it as active. Then, if you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a cost of 4 or less.
+{type}Water Seven/Galley-La Company

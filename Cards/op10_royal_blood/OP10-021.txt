@@ -1,0 +1,10 @@
+{card_name}Punk Hazard
+{card_code}OP10-021
+{category}Stage
+{color}Red
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Activate: Main] You may rest this Stage: If your Leader is [Caesar Clown], give up to 1 rested DON!! card to your Leader or 1 of your Characters.
+{type}Punk Hazard

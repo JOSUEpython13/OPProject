@@ -1,0 +1,10 @@
+{card_name}Bartholomew Kuma
+{card_code}OP05-011
+{category}Character
+{color}Red
+{cost}2
+{power}2000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] K.O. up to 1 of your opponent's Characters with 2000 power or less. [Trigger] If your Leader is multicolored, play this card.
+{type}The Seven Warlords of the Sea/Revolutionary Army

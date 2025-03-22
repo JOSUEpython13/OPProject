@@ -1,0 +1,10 @@
+{card_name}Smiley
+{card_code}OP10-009
+{category}Character
+{color}Red
+{cost}5
+{power}6000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader has the {Punk Hazard} type, give up to 1 of your opponent's Characters −3000 power during this turn.
+{type}Biological Weapon/Punk Hazard

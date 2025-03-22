@@ -1,0 +1,10 @@
+{card_name}Mr. Tanaka
+{card_code}OP07-008
+{category}Character
+{color}Red
+{cost}3
+{power}3000
+{atributte}Special
+{counter}
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [Trigger] Play this card.
+{type}FILM/Grantesoro

@@ -1,0 +1,10 @@
+{card_name}Charlotte Katakuri
+{card_code}OP11-062
+{category}Leader
+{color}Purple
+{cost}
+{power}5000
+{atributte}Strike
+{counter}
+{effect}[When Attacking]/[On Your Opponent's Attack] [Once Per Turn] DON!! −1: Look at 1 card from the top of your opponent's deck. Then, this Leader gains +1000 power during this battle.
+{type}Big Mom Pirates

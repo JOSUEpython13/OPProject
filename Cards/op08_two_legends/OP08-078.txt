@@ -1,0 +1,10 @@
+{card_name}Ulti
+{card_code}OP08-078
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates

@@ -1,0 +1,10 @@
+{card_name}In Two Years!! At the Sabaody Archipelago!!
+{card_code}OP01-030
+{category}Event
+{color}Red
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] Look at 5 cards from the top of your deck; reveal up to 1 {Straw Hat Crew} type Character card and add it to your hand. Then, place the rest at the bottom of your deck in any order. [Trigger] Activate this card's [Main] effect.
+{type}Straw Hat Crew

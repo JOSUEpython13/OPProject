@@ -1,0 +1,10 @@
+{card_name}Ryuma
+{card_code}OP10-094
+{category}Character
+{color}Black
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}
+{effect}[DON!! x1] This Character gains [Double Attack].
+{type}Land of Wano/Thriller Bark Pirates

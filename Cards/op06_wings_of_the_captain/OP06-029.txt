@@ -1,0 +1,10 @@
+{card_name}Daruma
+{card_code}OP06-029
+{category}Character
+{color}Green
+{cost}3
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] [Once Per Turn] If your Leader has the {New Fish-Man Pirates} type, set this Character as active and this Character gains +1000 power during this turn. Then, add 1 card from the top of your Life cards to your hand.
+{type}Fish-Man/New Fish-Man Pirates

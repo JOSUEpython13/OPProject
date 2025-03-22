@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}P-080
+{category}Character
+{color}Red
+{cost}7
+{power}9000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}The Four Emperors/Egghead/Straw Hat Crew

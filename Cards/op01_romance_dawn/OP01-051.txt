@@ -1,0 +1,10 @@
+{card_name}Eustass"Captain"Kid
+{card_code}OP01-051
+{category}Character
+{color}Green
+{cost}8
+{power}8000
+{atributte}Special
+{counter}
+{effect}[DON!! x1] [Opponent's Turn] If this Character is rested, your opponent cannot attack any card other than the Character [Eustass"Captain"Kid]. [Activate: Main] [Once Per Turn] You may rest this Character: Play up to 1 Character card with a cost of 3 or less from your hand.
+{type}Supernovas/Kid Pirates

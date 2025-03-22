@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}ST21-014
+{category}Character
+{color}Red
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}
+{effect}[Rush] (This card can attack on the turn in which it is played.) [When Attacking] Give up to 1 rested DON!! card to your Leader or 1 of your Characters.
+{type}The Four Emperors/Straw Hat Crew

@@ -1,0 +1,10 @@
+{card_name}Fisher Tiger
+{card_code}OP07-032
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader has the {Fish-Man} or {Merfolk} type, rest up to 1 of your opponent's Characters with a cost of 6 or less.
+{type}Fish-Man/The Sun Pirates

@@ -1,0 +1,10 @@
+{card_name}Outlook III
+{card_code}OP07-003
+{category}Character
+{color}Red
+{cost}2
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may trash this Character: Give up to 2 of your opponent's Characters −2000 power during this turn.
+{type}Goa Kingdom

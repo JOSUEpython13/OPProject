@@ -1,0 +1,10 @@
+{card_name}Dracule Mihawk
+{card_code}OP10-029
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] If you have 2 or more rested Characters, set up to 1 of your rested {ODYSSEY} type Characters with a cost of 5 or less as active.
+{type}ODYSSEY/The Seven Warlords of the Sea

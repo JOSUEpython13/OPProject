@@ -1,0 +1,10 @@
+{card_name}Thank You...for Loving Me!!
+{card_code}OP08-053
+{category}Event
+{color}Blue
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] If your Leader's type includes "Whitebeard Pirates", look at 3 cards from the top of your deck; reveal up to 1 card with a type including "Whitebeard Pirates" or [Monkey.D.Luffy] and add it to your hand. Then, place the rest at the top or bottom of your deck in any order. [Trigger] Draw 1 card.
+{type}Whitebeard Pirates

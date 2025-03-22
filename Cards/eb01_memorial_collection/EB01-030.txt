@@ -1,0 +1,10 @@
+{card_name}Loguetown
+{card_code}EB01-030
+{category}Stage
+{color}Blue
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Activate: Main] You may place this card and 1 card from your hand at the bottom of your deck in any order: Draw 2 cards. [Trigger] Play this card.
+{type}East Blue

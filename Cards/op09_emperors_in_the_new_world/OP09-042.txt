@@ -1,0 +1,10 @@
+{card_name}Buggy
+{card_code}OP09-042
+{category}Leader
+{color}Blue
+{cost}
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[Activate: Main] You may rest 5 of your DON!! cards and trash 1 card from your hand: Play up to 1 {Cross Guild} type Character card from your hand.
+{type}The Four Emperors/Cross Guild

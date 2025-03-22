@@ -1,0 +1,10 @@
+{card_name}Negative Hollow
+{card_code}OP06-097
+{category}Event
+{color}Black
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] Trash 1 card from your opponent's hand. [Trigger] Activate this card's [Main] effect.
+{type}Thriller Bark Pirates

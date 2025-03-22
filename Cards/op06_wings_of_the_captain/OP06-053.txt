@@ -1,0 +1,10 @@
+{card_name}Jaguar.D.Saul
+{card_code}OP06-053
+{category}Character
+{color}Blue
+{cost}2
+{power}3000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On K.O.] Place up to 1 Character with a cost of 2 or less at the bottom of the owner's deck.
+{type}Giant/Navy

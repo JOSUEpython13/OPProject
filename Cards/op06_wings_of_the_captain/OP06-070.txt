@@ -1,0 +1,10 @@
+{card_name}Eldoraggo
+{card_code}OP06-070
+{category}Character
+{color}Purple
+{cost}5
+{power}7000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Eldoraggo Crew

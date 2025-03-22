@@ -1,0 +1,10 @@
+{card_name}Inazuma
+{card_code}EB01-022
+{category}Character
+{color}Blue
+{cost}6
+{power}7000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[End of Your Turn] If you have 2 or less cards in your hand, draw 2 cards.
+{type}Impel Down/Revolutionary Army

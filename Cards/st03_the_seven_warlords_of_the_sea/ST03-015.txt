@@ -1,0 +1,10 @@
+{card_name}Sables
+{card_code}ST03-015
+{category}Event
+{color}Blue
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] Return up to 1 Character with a cost of 7 or less to the owner's hand. [Trigger] Activate this card's [Main] effect.
+{type}The Seven Warlords of the Sea/Baroque Works

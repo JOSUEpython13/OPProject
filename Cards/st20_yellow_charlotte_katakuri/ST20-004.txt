@@ -1,0 +1,10 @@
+{card_name}Charlotte Pudding
+{card_code}ST20-004
+{category}Character
+{color}Yellow
+{cost}3
+{power}2000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[On Play] You may add 1 card from the top of your Life cards to your hand: Set up to 1 of your {Big Mom Pirates} type Characters with a cost of 3 or less as active. [Trigger] Rest up to 1 of your opponent's Characters with a cost of 3 or less.
+{type}Big Mom Pirates

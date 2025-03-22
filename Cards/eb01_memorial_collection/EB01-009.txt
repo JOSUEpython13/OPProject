@@ -1,0 +1,10 @@
+{card_name}Just Shut Up and Come with Us!!!!
+{card_code}EB01-009
+{category}Event
+{color}Red
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Look at 5 cards from the top of your deck and play up to 1 {Animal} type Character card with a cost of 3 or less. Then, place the rest at the bottom of your deck in any order.
+{type}Drum Kingdom/Straw Hat Crew

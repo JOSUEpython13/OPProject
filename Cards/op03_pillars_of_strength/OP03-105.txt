@@ -1,0 +1,10 @@
+{card_name}Charlotte Oven
+{card_code}OP03-105
+{category}Character
+{color}Yellow
+{cost}3
+{power}4000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] You may trash 1 card with a [Trigger] from your hand: This Character gains +3000 power during this battle.
+{type}Big Mom Pirates

@@ -1,0 +1,10 @@
+{card_name}Rebecca
+{card_code}OP04-092
+{category}Character
+{color}Black
+{cost}1
+{power}2000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] Look at 3 cards from the top of your deck; reveal up to 1 {Dressrosa} type card other than [Rebecca] and add it to your hand. Then, trash the rest.
+{type}Dressrosa

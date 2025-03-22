@@ -1,0 +1,10 @@
+{card_name}You Can Be My Samurai!!
+{card_code}OP01-055
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may rest 2 of your Characters: Draw 2 cards.
+{type}Land of Wano/Kouzuki Clan

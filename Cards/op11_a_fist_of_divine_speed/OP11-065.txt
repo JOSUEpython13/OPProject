@@ -1,0 +1,10 @@
+{card_name}Charlotte Anana
+{card_code}OP11-065
+{category}Character
+{color}Purple
+{cost}1
+{power}1000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Big Mom Pirates

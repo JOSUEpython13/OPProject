@@ -1,0 +1,10 @@
+{card_name}Monkey.D.Luffy
+{card_code}P-036
+{category}Character
+{color}Yellow
+{cost}3
+{power}4000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[When Attacking] You may add 1 card from the top or bottom of your Life cards to your hand: This Character and up to 1 of your Leader gain +1000 power during this turn.
+{type}Land of Wano/Straw Hat Crew

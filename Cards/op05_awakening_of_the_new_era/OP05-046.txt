@@ -1,0 +1,10 @@
+{card_name}Dalmatian
+{card_code}OP05-046
+{category}Character
+{color}Blue
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On K.O.] Draw 1 card and place 1 card from your hand at the bottom of your deck.
+{type}Navy

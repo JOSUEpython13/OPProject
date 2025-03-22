@@ -1,0 +1,10 @@
+{card_name}Gum-Gum Mole Pistol
+{card_code}ST21-017
+{category}Event
+{color}Red
+{cost}4
+{power}
+{atributte}
+{counter}
+{effect}[Main] Give up to 1 of your opponent's Characters −5000 power during this turn. Then, if you have a Character with 6000 power or more, K.O. up to 1 of your opponent's Characters with 2000 power or less. [Trigger] Activate this card's [Main] effect.
+{type}The Four Emperors/Straw Hat Crew

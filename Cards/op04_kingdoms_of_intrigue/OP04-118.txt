@@ -1,0 +1,10 @@
+{card_name}Nefeltari Vivi
+{card_code}OP04-118
+{category}Character
+{color}Red
+{cost}7
+{power}4000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Alabasta

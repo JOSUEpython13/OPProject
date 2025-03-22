@@ -1,0 +1,10 @@
+{card_name}Plague Rounds
+{card_code}OP04-055
+{category}Event
+{color}Blue
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may trash 1 [Ice Oni] from your hand and place 1 Character with a cost of 4 or less at the bottom of the owner's deck: Play 1 [Ice Oni] from your trash. [Trigger] Activate this card's [Main] effect.
+{type}Animal Kingdom Pirates

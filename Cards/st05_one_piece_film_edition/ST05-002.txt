@@ -1,0 +1,10 @@
+{card_name}Ain
+{card_code}ST05-002
+{category}Character
+{color}Purple
+{cost}4
+{power}5000
+{atributte}Special
+{counter}
+{effect}[On Play] Add up to 1 DON!! card from your DON!! deck and rest it.
+{type}FILM/Neo Navy

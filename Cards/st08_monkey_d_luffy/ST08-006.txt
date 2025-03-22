@@ -1,0 +1,10 @@
+{card_name}Shirahoshi
+{card_code}ST08-006
+{category}Character
+{color}Black
+{cost}4
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [On Play] Give up to 1 of your opponent's Characters −4 cost during this turn.
+{type}Merfolk

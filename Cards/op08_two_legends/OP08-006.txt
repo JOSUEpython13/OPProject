@@ -1,0 +1,10 @@
+{card_name}Chessmarimo
+{card_code}OP08-006
+{category}Character
+{color}Red
+{cost}5
+{power}6000
+{atributte}Strike / Ranged
+{counter}• 1000 Counter
+{effect}[Your Turn] If you have [Kuromarimo] and [Chess] in your trash, this Character gains +2000 power.
+{type}Drum Kingdom

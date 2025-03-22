@@ -1,0 +1,10 @@
+{card_name}Karasu
+{card_code}OP05-005
+{category}Character
+{color}Red
+{cost}4
+{power}5000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader has the {Revolutionary Army} type, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn. [When Attacking] If this Character has 7000 power or more, give up to 1 of your opponent's Leader or Character cards −1000 power during this turn.
+{type}Revolutionary Army

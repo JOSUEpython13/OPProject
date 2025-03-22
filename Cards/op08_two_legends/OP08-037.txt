@@ -1,0 +1,10 @@
+{card_name}Garchu
+{card_code}OP08-037
+{category}Event
+{color}Green
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Main] You may rest 1 of your {Minks} type Characters: Rest up to 1 of your opponent's Characters. [Trigger] Draw 1 card.
+{type}Minks

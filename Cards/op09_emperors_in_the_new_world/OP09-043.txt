@@ -1,0 +1,10 @@
+{card_name}Alvida
+{card_code}OP09-043
+{category}Character
+{color}Blue
+{cost}5
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On K.O.] If your Leader has the {Cross Guild} type, play up to 1 Character card with a cost of 5 or less other than [Alvida] from your hand.
+{type}Cross Guild

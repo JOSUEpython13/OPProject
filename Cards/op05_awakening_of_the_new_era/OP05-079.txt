@@ -1,0 +1,10 @@
+{card_name}Viola
+{card_code}OP05-079
+{category}Character
+{color}Black
+{cost}2
+{power}3000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[On Play] Your opponent places 3 cards from their trash at the bottom of their deck in any order.
+{type}Dressrosa

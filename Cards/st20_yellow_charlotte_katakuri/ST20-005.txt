@@ -1,0 +1,10 @@
+{card_name}Charlotte Linlin
+{card_code}ST20-005
+{category}Character
+{color}Yellow
+{cost}6
+{power}7000
+{atributte}Special
+{counter}
+{effect}[On Play] You may trash 1 card from your hand: Your opponent chooses one: • Your opponent trashes 2 cards from their hand. • Trash 1 card from the top of your opponent's Life cards.
+{type}The Four Emperors/Big Mom Pirates

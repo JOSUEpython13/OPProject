@@ -1,0 +1,10 @@
+{card_name}Nami
+{card_code}OP10-088
+{category}Character
+{color}Black
+{cost}2
+{power}0
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Activate: Main] You may rest this Character and 1 of your {Dressrosa} type Leader or Stage cards: Draw 1 card. Then, trash 2 cards from the top of your deck.
+{type}Dressrosa/Straw Hat Crew

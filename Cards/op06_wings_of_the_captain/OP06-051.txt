@@ -1,0 +1,10 @@
+{card_name}Tsuru
+{card_code}OP06-051
+{category}Character
+{color}Blue
+{cost}5
+{power}4000
+{atributte}Special
+{counter}• 2000 Counter
+{effect}[On Play] You may trash 2 cards from your hand: Your opponent returns 1 of their Characters to the owner's hand.
+{type}Navy

@@ -1,0 +1,10 @@
+{card_name}Fiery Doll
+{card_code}OP03-019
+{category}Event
+{color}Red
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] Your Leader gains +4000 power during this turn. [Trigger] Give up to 1 of your opponent's Leader or Character cards -10000 power during this turn.
+{type}Whitebeard Pirates

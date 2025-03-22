@@ -1,0 +1,10 @@
+{card_name}Kaido
+{card_code}OP05-118
+{category}Character
+{color}Blue
+{cost}10
+{power}12000
+{atributte}Special
+{counter}
+{effect}[On Play] Draw 4 cards if your opponent has 3 or less Life cards.
+{type}The Four Emperors/Animal Kingdom Pirates

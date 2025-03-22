@@ -1,0 +1,10 @@
+{card_name}Krieg
+{card_code}OP01-066
+{category}Character
+{color}Blue
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Krieg Pirates

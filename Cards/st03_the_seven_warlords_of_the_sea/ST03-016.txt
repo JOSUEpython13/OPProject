@@ -1,0 +1,10 @@
+{card_name}Thrust Pad Cannon
+{card_code}ST03-016
+{category}Event
+{color}Blue
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Return up to 1 Character with a cost of 3 or less to the owner's hand. [Trigger] Activate this card's [Counter] effect.
+{type}The Seven Warlords of the Sea/Revolutionary Army

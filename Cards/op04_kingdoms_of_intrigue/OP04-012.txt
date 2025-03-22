@@ -1,0 +1,10 @@
+{card_name}Nefeltari Cobra
+{card_code}OP04-012
+{category}Character
+{color}Red
+{cost}2
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Your Turn] All of your {Alabasta} type Characters other than this Character gain +1000 power.
+{type}Alabasta

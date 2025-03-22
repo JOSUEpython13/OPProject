@@ -1,0 +1,10 @@
+{card_name}Sanji
+{card_code}P-050
+{category}Character
+{color}Blue
+{cost}3
+{power}2000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[Blocker] (After your opponent declares an attack, you may rest this card to make it the new target of the attack.) [DON!! x1] [Your Turn] If you have 3 or less cards in your hand, this Character gains +4000 power.
+{type}Straw Hat Crew

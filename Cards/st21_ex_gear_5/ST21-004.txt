@@ -1,0 +1,10 @@
+{card_name}Jewelry Bonney
+{card_code}ST21-004
+{category}Character
+{color}Red
+{cost}1
+{power}3000
+{atributte}Special
+{counter}
+{effect}[DON!! x2] [On K.O.] Draw 1 card.
+{type}Egghead/Bonney Pirates

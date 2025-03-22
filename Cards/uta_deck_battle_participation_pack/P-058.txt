@@ -1,0 +1,10 @@
+{card_name}Where the Wind Blows
+{card_code}P-058
+{category}Event
+{color}Green
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Main] If your Leader is [Uta], set all of your {FILM} type Characters as active at the end of this turn. [Trigger] Set all of your {FILM} type Characters as active.
+{type}Music/FILM

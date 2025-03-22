@@ -1,0 +1,10 @@
+{card_name}Tony Tony.Chopper
+{card_code}OP07-103
+{category}Character
+{color}Yellow
+{cost}2
+{power}3000
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}[Trigger] Up to 1 of your {Egghead} type Characters gains [Blocker] during this turn. Then, add this card to your hand.
+{type}Animal/Egghead/Straw Hat Crew

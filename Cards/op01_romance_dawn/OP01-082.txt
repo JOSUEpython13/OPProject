@@ -1,0 +1,10 @@
+{card_name}Monet
+{card_code}OP01-082
+{category}Character
+{color}Blue
+{cost}2
+{power}3000
+{atributte}Special
+{counter}• 1000 Counter
+{effect}[Trigger] Play this card.
+{type}Donquixote Pirates/Punk Hazard

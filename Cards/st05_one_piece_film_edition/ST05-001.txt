@@ -1,0 +1,10 @@
+{card_name}Shanks
+{card_code}ST05-001
+{category}Leader
+{color}Purple
+{cost}
+{power}5000
+{atributte}Slash
+{counter}
+{effect}[Activate: Main] [Once Per Turn] DON!! −3 (You may return the specified number of DON!! cards from your field to your DON!! deck.) : All of your {FILM} type Characters gain +2000 power during this turn.
+{type}FILM/The Four Emperors/Red-Haired Pirates

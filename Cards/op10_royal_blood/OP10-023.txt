@@ -1,0 +1,10 @@
+{card_name}Issho
+{card_code}OP10-023
+{category}Character
+{color}Green
+{cost}5
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[On Play] If your Leader has the {Navy} type, rest up to 2 of your opponent's Characters with a cost of 5 or less.
+{type}Dressrosa/Navy

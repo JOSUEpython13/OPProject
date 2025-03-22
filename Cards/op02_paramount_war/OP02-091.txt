@@ -1,0 +1,10 @@
+{card_name}Venom Road
+{card_code}OP02-091
+{category}Event
+{color}Purple
+{cost}3
+{power}
+{atributte}
+{counter}
+{effect}[Main] Add up to 1 DON!! card from your DON!! deck and set it as active. [Trigger] If your opponent has 6 or more DON!! cards on their field, your opponent returns 1 DON!! card from their field to their DON!! deck.
+{type}Impel Down

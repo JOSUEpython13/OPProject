@@ -1,0 +1,10 @@
+{card_name}Klabautermann
+{card_code}EB02-033
+{category}Character
+{color}Purple
+{cost}1
+{power}0
+{atributte}Wisdom
+{counter}• 1000 Counter
+{effect}
+{type}Sprite

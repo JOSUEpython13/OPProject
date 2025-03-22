@@ -1,0 +1,10 @@
+{card_name}And That's When Somebody Makes Fun of Their Friend's Dream!!!!
+{card_code}EB02-030
+{category}Event
+{color}Blue
+{cost}2
+{power}
+{atributte}
+{counter}
+{effect}[Counter] If any of your Characters would be K.O.'d in battle during this turn, you may trash 1 card from your hand instead. [Trigger] Draw 1 card.
+{type}Alabasta/Straw Hat Crew

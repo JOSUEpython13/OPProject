@@ -1,0 +1,10 @@
+{card_name}Vander Decken IX
+{card_code}OP06-033
+{category}Character
+{color}Green
+{cost}2
+{power}2000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}[On Play] You may trash 1 {Fish-Man} type card from your hand or 1 [The Ark Noah] from your hand or field: K.O. up to 1 of your opponent's rested Characters.
+{type}Fish-Man/Flying Pirates

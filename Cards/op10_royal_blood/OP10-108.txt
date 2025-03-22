@@ -1,0 +1,10 @@
+{card_name}Scratchmen Apoo
+{card_code}OP10-108
+{category}Character
+{color}Yellow
+{cost}1
+{power}1000
+{atributte}Ranged
+{counter}• 1000 Counter
+{effect}
+{type}Supernovas/On-Air Pirates

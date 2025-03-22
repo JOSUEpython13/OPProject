@@ -1,0 +1,10 @@
+{card_name}Sarquiss
+{card_code}OP05-026
+{category}Character
+{color}Green
+{cost}4
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x1] [When Attacking] [Once Per Turn] You may rest 1 of your Characters with a cost of 3 or more: Set this Character as active.
+{type}Bellamy Pirates

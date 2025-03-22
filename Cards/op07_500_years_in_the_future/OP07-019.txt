@@ -1,0 +1,10 @@
+{card_name}Jewelry Bonney
+{card_code}OP07-019
+{category}Leader
+{color}Green
+{cost}
+{power}5000
+{atributte}Special
+{counter}
+{effect}[On Your Opponent's Attack] [Once Per Turn] ➀ (You may rest the specified number of DON!! cards in your cost area.) : Rest up to 1 of your opponent's Leader or Character cards.
+{type}Supernovas/Bonney Pirates

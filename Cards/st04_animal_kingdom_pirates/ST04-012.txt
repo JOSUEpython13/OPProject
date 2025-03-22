@@ -1,0 +1,10 @@
+{card_name}Page One
+{card_code}ST04-012
+{category}Character
+{color}Purple
+{cost}4
+{power}6000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}
+{type}Animal Kingdom Pirates

@@ -1,0 +1,10 @@
+{card_name}Nefeltari Vivi
+{card_code}ST01-009
+{category}Character
+{color}Red
+{cost}2
+{power}4000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}Alabasta

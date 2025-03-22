@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}OP02-043
+{category}Character
+{color}Green
+{cost}4
+{power}6000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}
+{type}FILM/Supernovas/Straw Hat Crew

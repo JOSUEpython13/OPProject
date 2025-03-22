@@ -1,0 +1,10 @@
+{card_name}Gum-Gum Red Roc
+{card_code}OP04-056
+{category}Event
+{color}Red
+{cost}6
+{power}
+{atributte}
+{counter}
+{effect}[Main] Place up to 1 Character at the bottom of the owner's deck. [Trigger] Place up to 1 Character with a cost of 4 or less at the bottom of the owner's deck.
+{type}Straw Hat Crew

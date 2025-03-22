@@ -1,0 +1,10 @@
+{card_name}Gum-Gum Giant Gavel
+{card_code}OP03-055
+{category}Event
+{color}Blue
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] You may trash 1 card from your hand: Up to 1 of your Leader gains +4000 power during this battle. Then, you may trash 2 cards from the top of your deck. [Trigger] Return up to 1 Character with a cost of 4 or less to the owner's hand.
+{type}East Blue/Straw Hat Crew

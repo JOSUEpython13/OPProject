@@ -1,0 +1,10 @@
+{card_name}O-Robi
+{card_code}OP05-063
+{category}Character
+{color}Purple
+{cost}4
+{power}5000
+{atributte}Strike
+{counter}• 1000 Counter
+{effect}[On Play] If you have 8 or more DON!! cards on your field, K.O. up to 1 of your opponent's Characters with a cost of 3 or less.
+{type}Straw Hat Crew

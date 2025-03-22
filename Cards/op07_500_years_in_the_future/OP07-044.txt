@@ -1,0 +1,10 @@
+{card_name}Dracule Mihawk
+{card_code}OP07-044
+{category}Character
+{color}Blue
+{cost}8
+{power}10000
+{atributte}Slash
+{counter}
+{effect}[On Play] Draw 1 card.
+{type}The Seven Warlords of the Sea

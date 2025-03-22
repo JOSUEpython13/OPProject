@@ -1,0 +1,10 @@
+{card_name}Vinsmoke Reiju
+{card_code}OP06-042
+{category}Leader
+{color}Blue / Purple
+{cost}
+{power}5000
+{atributte}Special
+{counter}
+{effect}[Your Turn] [Once Per Turn] When a DON!! card on your field is returned to your DON!! deck, draw 1 card.
+{type}The Vinsmoke Family/GERMA 66

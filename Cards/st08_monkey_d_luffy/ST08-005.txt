@@ -1,0 +1,10 @@
+{card_name}Shanks
+{card_code}ST08-005
+{category}Character
+{color}Black
+{cost}9
+{power}10000
+{atributte}Slash
+{counter}
+{effect}[On Play] You may trash 1 card from your hand: K.O. all Characters with a cost of 1 or less.
+{type}Red-Haired Pirates

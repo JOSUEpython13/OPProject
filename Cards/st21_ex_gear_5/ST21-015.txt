@@ -1,0 +1,10 @@
+{card_name}Roronoa Zoro
+{card_code}ST21-015
+{category}Character
+{color}Red
+{cost}4
+{power}5000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[DON!! x2] This Character gains [Rush]. [On K.O.] Play up to 1 red Character card with 6000 power or less other than [Roronoa Zoro] from your hand.
+{type}Straw Hat Crew
