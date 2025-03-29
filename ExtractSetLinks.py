@@ -4,12 +4,12 @@ from bs4 import BeautifulSoup
 base_url = "https://onepiece.limitlesstcg.com"
 cards_url = f"{base_url}/cards"
 
-# Fetch the main cards page
+# Informacion inicial para pull de links
 headers = {"User-Agent": "Mozilla/5.0"}
 response = requests.get(cards_url, headers=headers)
 soup = BeautifulSoup(response.text, "html.parser")
 
-# Extract set links
+# Extraccion de los links
 set_links = []
 for link in soup.find_all("a", href=True):
     href = link["href"]
@@ -18,7 +18,7 @@ for link in soup.find_all("a", href=True):
         if full_url not in set_links:
             set_links.append(full_url)
 
-# Save to .txt file
+# Salvar a .txt 
 with open("set_links.txt", "w", encoding="utf-8") as file:
     for url in sorted(set_links):
         file.write(url + "\n")

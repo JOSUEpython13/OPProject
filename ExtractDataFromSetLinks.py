@@ -5,19 +5,19 @@ import json
 import re
 from urllib.parse import urljoin, urlparse, urlunparse
 
-# Path to your input file
+# Path para el archivo .txt extraido en ExtractSetLinks
 file_path = r"C:\Users\INFESTED\Documents\GitHub\OPProject\set_links.txt"
 base_dir = os.path.dirname(file_path)
 
-# Folder to save the JSON files
+# Folder para salvar los JSON files
 cards_dir = os.path.join(base_dir, "Cards")
 os.makedirs(cards_dir, exist_ok=True)
 
-# Read the links from the file
+# Lectura de los links en el .txt
 with open(file_path, 'r') as file:
     links = file.read().splitlines()
 
-# Loop through each link
+# Loop para revisar los links
 for link in links:
     try:
         response = requests.get(link)
@@ -38,11 +38,11 @@ for link in links:
                 image_url = img_tag['src']
                 image_urls.append(image_url)
 
-        # Create a safe filename from the URL
+        # Creacion de nombre del archivo
         file_name = re.sub(r'\W+', '_', link.split('/')[-1]) or "index"
         json_file_path = os.path.join(cards_dir, f"{file_name}.json")
 
-        # Save the data
+        # Save de la informacion
         with open(json_file_path, 'w') as json_file:
             json.dump({'card_urls': card_urls, 'image_urls': image_urls}, json_file, indent=2)
 
