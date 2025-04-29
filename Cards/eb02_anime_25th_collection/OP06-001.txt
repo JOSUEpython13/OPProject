@@ -1,7 +1,7 @@
 {card_name}Uta
 {card_code}OP06-001
 {category}Leader
-{color}Purple / Red
+{color}Red / Purple
 {cost}
 {power}5000
 {atributte}Special

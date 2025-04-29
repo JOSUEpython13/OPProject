@@ -4,7 +4,7 @@
 {color}Red
 {cost}4
 {power}5000
-{atributte}Slash / Special
+{atributte}Special / Slash
 {counter}
 {effect}[Rush] (This card can attack on the turn in which it is played.) [When Attacking] If your opponent has 2 or less Life cards, this Character gains +2000 power during this turn.
 {type}Supernovas/Kid Pirates

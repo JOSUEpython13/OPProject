@@ -1,0 +1,10 @@
+{card_name}Take That Back!! Take Back What You Said!!
+{card_code}ST22-016
+{category}Event
+{color}Blue
+{cost}1
+{power}
+{atributte}
+{counter}
+{effect}[Counter] Reveal 1 card from the top of your deck. If that card's type includes "Whitebeard Pirates", up to 1 of your Leader or Character cards gains +4000 power during this battle. [Trigger] Draw 1 card.
+{type}Whitebeard Pirates

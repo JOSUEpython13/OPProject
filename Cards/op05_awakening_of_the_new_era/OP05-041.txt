@@ -1,7 +1,7 @@
 {card_name}Sakazuki
 {card_code}OP05-041
 {category}Leader
-{color}Black / Blue
+{color}Blue / Black
 {cost}
 {power}5000
 {atributte}Special

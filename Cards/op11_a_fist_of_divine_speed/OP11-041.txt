@@ -1,7 +1,7 @@
 {card_name}Nami
 {card_code}OP11-041
 {category}Leader
-{color}Yellow / Blue
+{color}Blue / Yellow
 {cost}
 {power}5000
 {atributte}Special

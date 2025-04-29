@@ -1,7 +1,7 @@
 {card_name}Monkey.D.Luffy
 {card_code}ST10-002
 {category}Leader
-{color}Purple / Red
+{color}Red / Purple
 {cost}
 {power}6000
 {atributte}Strike

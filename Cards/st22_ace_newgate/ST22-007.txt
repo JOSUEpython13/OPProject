@@ -1,0 +1,10 @@
+{card_name}Squard
+{card_code}ST22-007
+{category}Character
+{color}Blue
+{cost}1
+{power}2000
+{atributte}Slash
+{counter}• 1000 Counter
+{effect}[Activate: Main] [Once Per Turn] Reveal 1 card from the top of your deck. If that card's type includes "Whitebeard Pirates", give up to 1 rested DON!! card to your Leader or 1 of your Characters.
+{type}Whitebeard Pirates Allies

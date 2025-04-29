@@ -1,7 +1,7 @@
 {card_name}Charlotte Linlin
 {card_code}OP03-077
 {category}Leader
-{color}Yellow / Black
+{color}Black / Yellow
 {cost}
 {power}5000
 {atributte}Special

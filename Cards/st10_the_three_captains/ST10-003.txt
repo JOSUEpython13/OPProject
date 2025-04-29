@@ -1,7 +1,7 @@
 {card_name}Eustass"Captain"Kid
 {card_code}ST10-003
 {category}Leader
-{color}Purple / Red
+{color}Red / Purple
 {cost}
 {power}5000
 {atributte}Special

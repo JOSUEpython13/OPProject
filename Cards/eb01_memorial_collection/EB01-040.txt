@@ -1,7 +1,7 @@
 {card_name}Kyros
 {card_code}EB01-040
 {category}Leader
-{color}Yellow / Black
+{color}Black / Yellow
 {cost}
 {power}5000
 {atributte}Slash

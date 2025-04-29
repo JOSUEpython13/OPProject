@@ -1,7 +1,7 @@
 {card_name}Queen
 {card_code}OP04-040
 {category}Leader
-{color}Yellow / Blue
+{color}Blue / Yellow
 {cost}
 {power}5000
 {atributte}Ranged

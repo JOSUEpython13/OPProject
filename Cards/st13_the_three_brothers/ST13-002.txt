@@ -1,7 +1,7 @@
 {card_name}Portgas.D.Ace
 {card_code}ST13-002
 {category}Leader
-{color}Yellow / Blue
+{color}Blue / Yellow
 {cost}
 {power}5000
 {atributte}Special

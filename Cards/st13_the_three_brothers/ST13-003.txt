@@ -1,7 +1,7 @@
 {card_name}Monkey.D.Luffy
 {card_code}ST13-003
 {category}Leader
-{color}Yellow / Black
+{color}Black / Yellow
 {cost}
 {power}5000
 {atributte}Strike

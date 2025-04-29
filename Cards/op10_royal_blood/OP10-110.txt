@@ -4,7 +4,7 @@
 {color}Yellow
 {cost}3
 {power}4000
-{atributte}Slash / Special
+{atributte}Special / Slash
 {counter}• 1000 Counter
 {effect}[On Play] Rest up to 1 of your opponent's Characters with a cost equal to or less than the number of your opponent's Life cards. [Trigger] If you have 2 or less Life cards, play this card.
 {type}Kid Pirates

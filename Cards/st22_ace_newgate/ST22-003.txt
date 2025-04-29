@@ -1,0 +1,10 @@
+{card_name}Edward.Newgate
+{card_code}ST22-003
+{category}Character
+{color}Blue
+{cost}9
+{power}10000
+{atributte}Special
+{counter}
+{effect}[Double Attack] (This card deals 2 damage.) [On Play] Reveal 1 card from the top of your deck. If that card's type includes "Whitebeard Pirates", draw 2 cards.
+{type}The Four Emperors/Whitebeard Pirates

@@ -1,0 +1,10 @@
+{card_name}I Am Whitebeard!!
+{card_code}ST22-015
+{category}Event
+{color}Blue
+{cost}8
+{power}
+{atributte}
+{counter}
+{effect}[Main] If your Leader's type includes "Whitebeard Pirates", play up to 1 [Edward.Newgate] from your hand. Then, you may add 1 card from the top or bottom of your Life cards to your hand. If you do, up to 1 of your Leader gains +2000 power until the end of your opponent's next turn.
+{type}The Four Emperors/Whitebeard Pirates
