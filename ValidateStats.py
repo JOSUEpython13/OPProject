@@ -1,3 +1,5 @@
+import matplotlib.pyplot as plt
+from collections import Counter
 import os
 import re
 
@@ -293,3 +295,210 @@ def export_deck_to_html_with_images(base_cards_path=None):
 
     print(f"\n✅ Deck exportado exitosamente a: {output_file}")
 
+def plot_deck_cost_curve(base_cards_path=None):
+    if base_cards_path is None:
+        base_cards_path = os.path.join(os.getcwd(), "Cards")
+
+    deck_base = os.path.join(os.getcwd(), "Decks")
+    available_decks = [f for f in os.listdir(deck_base) if f.endswith('.txt')]
+
+    if not available_decks:
+        print("❌ No hay archivos de deck disponibles.")
+        return
+
+    print("\n=== Decks disponibles para graficar ===")
+    for idx, deck_name in enumerate(available_decks, start=1):
+        print(f"{idx}. {deck_name}")
+
+    try:
+        selected = int(input("\nSeleccione el número del deck: "))
+        if selected < 1 or selected > len(available_decks):
+            print("❌ Selección inválida.")
+            return
+    except ValueError:
+        print("❌ Entrada inválida.")
+        return
+
+    deck_file_path = os.path.join(deck_base, available_decks[selected - 1])
+
+    # Leer deck
+    deck = []
+    with open(deck_file_path, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                parts = re.split(r'\s*x\s*', line.lower())
+                if len(parts) == 2:
+                    count, card_id = parts
+                    deck.append((int(count), normalize(card_id)))
+
+    # Buscar archivos de carta
+    all_card_txt_files = []
+    for root, dirs, files in os.walk(base_cards_path):
+        for file in files:
+            if file.lower().endswith('.txt'):
+                all_card_txt_files.append(os.path.join(root, file))
+
+    # Contar costes
+    cost_counter = Counter()
+
+    for count, card_id in deck:
+        for card_path in all_card_txt_files:
+            file_card_id = normalize(os.path.splitext(os.path.basename(card_path))[0])
+            if file_card_id == card_id:
+                with open(card_path, "r", encoding="utf-8") as card_file:
+                    for line in card_file:
+                        if line.startswith("{cost}"):
+                            try:
+                                cost = int(line.replace("{cost}", "").strip())
+                                cost_counter[cost] += count
+                            except ValueError:
+                                pass
+                break
+
+    # Crear gráfica
+    if not cost_counter:
+        print("❌ No se encontraron datos de coste.")
+        return
+
+    sorted_costs = sorted(cost_counter.items())
+    x, y = zip(*sorted_costs)
+
+    plt.bar(x, y, color='skyblue')
+    plt.xlabel("Costo de carta")
+    plt.ylabel("Cantidad de cartas")
+    plt.title("Curva de Coste del Deck")
+    plt.xticks(range(min(x), max(x)+1))
+    plt.grid(axis='y')
+    plt.tight_layout()
+    plt.show()
+    
+def plot_deck_color_distribution(base_cards_path=None):
+    if base_cards_path is None:
+        base_cards_path = os.path.join(os.getcwd(), "Cards")
+
+    deck_base = os.path.join(os.getcwd(), "Decks")
+    available_decks = [f for f in os.listdir(deck_base) if f.endswith('.txt')]
+
+    if not available_decks:
+        print("❌ No hay decks disponibles.")
+        return
+
+    print("\n=== Decks disponibles ===")
+    for idx, deck_name in enumerate(available_decks, start=1):
+        print(f"{idx}. {deck_name}")
+    try:
+        selected = int(input("\nSeleccione el número del deck: "))
+        if selected < 1 or selected > len(available_decks):
+            print("❌ Selección inválida.")
+            return
+    except ValueError:
+        print("❌ Entrada inválida.")
+        return
+
+    deck_file = os.path.join(deck_base, available_decks[selected - 1])
+    deck = []
+    with open(deck_file, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                parts = re.split(r'\s*x\s*', line.lower())
+                if len(parts) == 2:
+                    count, card_id = parts
+                    deck.append((int(count), normalize(card_id)))
+
+    all_card_txt_files = []
+    for root, dirs, files in os.walk(base_cards_path):
+        for file in files:
+            if file.endswith(".txt"):
+                all_card_txt_files.append(os.path.join(root, file))
+
+    from collections import Counter
+    color_counter = Counter()
+
+    for count, card_id in deck:
+        for path in all_card_txt_files:
+            if normalize(os.path.splitext(os.path.basename(path))[0]) == card_id:
+                with open(path, "r", encoding="utf-8") as card_file:
+                    for line in card_file:
+                        if line.startswith("{color}"):
+                            color = line.replace("{color}", "").strip()
+                            color_counter[color] += count
+                break
+
+    if not color_counter:
+        print("❌ No se encontraron colores.")
+        return
+
+    labels = list(color_counter.keys())
+    sizes = list(color_counter.values())
+
+    plt.figure(figsize=(6, 6))
+    plt.pie(sizes, labels=labels, autopct="%1.1f%%", startangle=90)
+    plt.title("Distribución por Color del Deck")
+    plt.axis("equal")
+    plt.tight_layout()
+    plt.show()
+
+def plot_deck_type_distribution(base_cards_path=None):
+    if base_cards_path is None:
+        base_cards_path = os.path.join(os.getcwd(), "Cards")
+
+    deck_base = os.path.join(os.getcwd(), "Decks")
+    available_decks = [f for f in os.listdir(deck_base) if f.endswith('.txt')]
+
+    if not available_decks:
+        print("❌ No hay decks disponibles.")
+        return
+
+    print("\n=== Decks disponibles ===")
+    for idx, deck_name in enumerate(available_decks, start=1):
+        print(f"{idx}. {deck_name}")
+    try:
+        selected = int(input("\nSeleccione el número del deck: "))
+        if selected < 1 or selected > len(available_decks):
+            print("❌ Selección inválida.")
+            return
+    except ValueError:
+        print("❌ Entrada inválida.")
+        return
+
+    deck_file = os.path.join(deck_base, available_decks[selected - 1])
+    deck = []
+    with open(deck_file, "r", encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if line:
+                parts = re.split(r'\s*x\s*', line.lower())
+                if len(parts) == 2:
+                    count, card_id = parts
+                    deck.append((int(count), normalize(card_id)))
+
+    all_card_txt_files = []
+    for root, dirs, files in os.walk(base_cards_path):
+        for file in files:
+            if file.endswith(".txt"):
+                all_card_txt_files.append(os.path.join(root, file))
+
+    from collections import Counter
+    type_counter = Counter()
+
+    for count, card_id in deck:
+        for path in all_card_txt_files:
+            if normalize(os.path.splitext(os.path.basename(path))[0]) == card_id:
+                with open(path, "r", encoding="utf-8") as card_file:
+                    for line in card_file:
+                        if line.startswith("{category}"):
+                            category = line.replace("{category}", "").strip()
+                            type_counter[category] += count
+                break
+
+    if not type_counter:
+        print("❌ No se encontraron tipos.")
+        return
+
+    plt.bar(type_counter.keys(), type_counter.values(), color='orange')
+    plt.title("Distribución por Tipo de Carta")
+    plt.ylabel("Cantidad")
+    plt.tight_layout()
+    plt.show()
